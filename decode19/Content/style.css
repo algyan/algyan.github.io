@@ -1,0 +1,15 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 0;
+    background-image: url("../images/IoTRoomWebBack.PNG") ;
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: #464646;
+}
+
+a {
+  color: #00B7FF;
+}
