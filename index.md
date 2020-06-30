@@ -58,7 +58,7 @@ IoTなアプリの開発やハンズオンのコンテンツ作りに参加し�
 ## Members
 
 IoTあるじゃんの素敵な仲間たちを紹介しています！  
-ご自身の情報を掲載したい方は、[こちらの資料](https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn)に従ってGitHubでPull Requestをお送りください。
+ご自身の情報を掲載したい方は、[こちらの資料](https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/howto)に従ってGitHubでPull Requestをお送りください。
 
 <!--
 ・お１人ずつ１行でコピペして編集してください（改行が入ると表のレイアウトが崩れます^^;
