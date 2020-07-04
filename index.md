@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| 長谷川  | 横浜    | [![facebook](img/facebook.png)](https://facebook.com/yoshiaki.hasegawa.75) | 未知のもの、勉強するもの |
 
