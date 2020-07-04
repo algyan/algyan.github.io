@@ -71,4 +71,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-
+| たこぴん  | 鶴見    | [![facebook](img/facebook.png)](https://www.facebook.com/shin.takeuchi.31) [![twitter](img/twitter.png)](https://twitter.com/stake2722) [![github](img/github.png)](https://github.com/stake2722)   | 遠隔のものをいじるじゃん、<br>触覚あったらいいじゃん！ |
