@@ -180,6 +180,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | sereka  | 神奈川県    | [![twitter](img/twitter.png)](https://twitter.com/ov_vo) [![github](img/github.png)](https://github.com/tereka)   | あるじゃん、<br>いいことあるじゃん！ |
 | tokky  | 地球    |   | ここになにかが表示される |
 | にしだ ゆうき  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/rabbits1987) [![twitter](img/twitter.png)](https://twitter.com/rabbits1987) [![github](img/github.png)](https://github.com/Nyuuki0224)   | 情熱を注ぐに値する面白い概念！ |
+| ひろさん  | 横浜    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | リタイヤ後のやりがい、<br>いいことあるじゃん！ |
 | moruxa | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/moruxa.nanda/) [![twitter](img/twitter.png)](https://twitter.com/moruxa) [![github](img/github.png)](https://github.com/moruxa)   | 来世に期待 |
 | JESSICA-YXS  | 地球    |    |    |
 | MH  | 品川    | [![facebook](img/facebook.png)](https://facebook.com/groups/minghong/) [![twitter](img/twitter.png)](https://twitter.com/minghong) [![github](img/github.png)](https://github.com/minghong)   | 最高の趣味、<br>がんばれIoT！ |
