@@ -1,8 +1,11 @@
----
-layout: default
-title: IoT ALGYAN 公式Webサイト
-description: IoTあるじゃん
----
+  <style>
+  footer {
+    display: none;
+  }
+  .btn {
+    display: none;
+  }
+</style>
 
 ## IoT ALGYAN 公式Webサイト
 
