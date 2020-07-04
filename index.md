@@ -73,7 +73,6 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | 小暮敦彦（ALGYAN理事長だっ）  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | 総合格闘技と癒し<br>そして、トキメキ！ |
 | takasehideki  | 京都    | [![facebook](img/facebook.png)](https://facebook.com/takasehideki) [![twitter](img/twitter.png)](https://twitter.com/TAKASEhideki) [![github](img/github.png)](https://github.com/takasehideki)   | テクノロジーへの愛！ |
-| y-chinen  | Kyushu    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | ワクワク！ |
 | ないじゃん  | 宇宙    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | なんにもないじゃん、<br>うまいはなしなんてないじゃん！ |
 | sahorange      | Tokyo    | SNS | セミナー参加中 |
 | YukoHara  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/yuko.hara.58760/) [![twitter](img/twitter.png)](https://twitter.com/mameko0211) [![github](img/github.png)](https://github.com/YukoHara555/hello-world)   | テクノロジーの変化に頑張ってついていきます |
@@ -91,10 +90,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | あらやん  | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/ArayanAce)   | なんもないんだな。 |
 | 西川幸延　  | 金沢    | [![facebook](img/facebook.png)](https://facebook.com/groups/doraetrobo/) [![twitter](img/twitter.png)](https://twitter.com/dora_etrobo) [![github](img/github.png)](https://github.com/etrobo)   | IoTラブ、<br>楽しい！ |
 | arigema  | 地球    | [![github](img/github.png)](https://github.com/arigema)   | 気になっていること<br>知りたいことあるじゃん！ |
-|たていし|多摩南部〜相模原| [![facebook](img/facebook.png)](https://www.facebook.com/akira.ignote) [![github](img/github.png)](https://github.com/greennote)|現実世界との架け橋|
-| m1test  | 田舎    | [![facebook](img/facebook.png)](https://facebook.com/m1test/) [![twitter](img/twitter.png)](https://twitter.com/m1test) [![github](img/github.png)](https://github.com/mitest)   | IoT…縁ないなぁ |
-| こにし  | 大阪  |  [![github](img/github.png)](https://github.com/akimasakonishi/) | ちょっとだけ触れる！ |
-| katakaku | 太陽系    |  [![twitter](img/twitter.png)](https://twitter.com/konekonopapa) [![github](img/github.png)](https://github.com/katakaku)   | ネコでもできるかな、<br>いいことあるじゃん！ |
-| 桜井　厚 ![image](https://avatars0.githubusercontent.com/u/64763?s=40) | 名古屋市    | [![github](img/github.png)](https://github.com/mocapapa/)   | 何か作りたい |
-| Lakefield  | 鎌倉    | [![facebook](img/facebook.png)](https://www.facebook.com/akira.urano.73/) [![github](img/github.png)](https://github.com/lakefield7/)   |Enjoy、<br>IoT！ |
-| 長谷川  | 横浜    | [![facebook](img/facebook.png)](https://facebook.com/yoshiaki.hasegawa.75) | 未知のもの、勉強するもの |
+| Sajiki A. Tatsuo | Hokkaido | [![github](img/github.png)](https://github.com/tsajiki) | Physical computing. |
