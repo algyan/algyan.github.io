@@ -147,3 +147,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | いのうえ　みのる  | とうきょうと    | [![facebook](img/facebook.png)](https://facebook.com/minoru.inoue.90) [![twitter](img/twitter.png)](https://twitter.com/henjin01_Fab) [![github](img/github.png)](https://github.com/henjin0)   | エンジニア会の<br>総合格闘技! |
 | 金子  | 北海道    | [![github](img/github.png)](https://github.com/ToshiakiKaneko)   | 監視されてる。 |
 | ゆうこりん  | こりん星    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/algyan)   | ばくはつしちゃったじゃん |
+| tonegawa | 地球    |  [![twitter](img/twitter.png)](https://twitter.com/to_ne_gawa) [![github](img/github.png)](https://github.com/tnriver)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
