@@ -105,3 +105,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 安藤沙樹  | 仙台    | [![twitter](img/twitter.png)](https://twitter.com/PolTabasko) [![github](img/github.png)](https://github.com/and1720015)   | ロマンと可能性無限大 |
 | 5002202  | 長野    |  | 役に立たない |
 | Susumu  | 滋賀    | [![github](img/github.png)](https://github.com/SusumuOoe)   | AIとの両輪技術! |
+| @tatsu1225  | くまもと    | [![facebook](img/facebook.png)](https://www.facebook.com/oikawa.tatsuhiro) [![twitter](img/twitter.png)](https://twitter.com/home) [![github](img/github.png)](https://github.com/tatsu1225)   | IoTあるじゃん！<br>組込み |
