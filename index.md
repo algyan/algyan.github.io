@@ -171,3 +171,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | artinring  | Nagoya    |  [![github](img/github.png)](https://github.com/artinring)   | やること沢山、<br>時間が欲しいよ~。 |
 | shu0812  | 西東京    | [![facebook](img/facebook.png)](https://facebook.com/sota221017) [![twitter](img/twitter.png)](https://twitter.com/shu__0812) [![github](img/github.png)](https://github.com/shusuke0812)   | ワクワクするものづくり  |
 | linyixian  | 地球    | [![facebook](img/facebook.png)](https://www.facebook.com/yoshinori.hayashi.33) [![twitter](img/twitter.png)](https://twitter.com/linyixian) [![github](img/github.png)](https://github.com/linyixian)   | IoTHub<br>いいことあるじゃん！ |
+| たこぴん  | 鶴見    | [![facebook](img/facebook.png)](https://www.facebook.com/shin.takeuchi.31) [![twitter](img/twitter.png)](https://twitter.com/stake2722) [![github](img/github.png)](https://github.com/stake2722)   | 遠隔のものをいじるじゃん、<br>触覚あったらいいじゃん！ |
