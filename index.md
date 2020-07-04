@@ -87,3 +87,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ヒロキ | 熊本    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | モノづくり|
 |matsujirushi|愛知|[![facebook](img/facebook.png)](https://www.facebook.com/takashi.matsuoka.37) [![twitter](img/twitter.png)](https://twitter.com/matsujirushi12) [![github](img/github.png)](https://github.com/matsujirushi)|ものづくり|
 | Y.Fujita  | 神戸    | [![twitter](img/twitter.png)](https://twitter.com/YSFT_KOBE) [![github](img/github.png)](https://github.com/YSFT-KOBE)   | 恋人です！ |
+| あらやん  | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/ArayanAce)   | なんもないんだな。 |
