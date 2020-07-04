@@ -174,3 +174,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | たこぴん  | 鶴見    | [![facebook](img/facebook.png)](https://www.facebook.com/shin.takeuchi.31) [![twitter](img/twitter.png)](https://twitter.com/stake2722) [![github](img/github.png)](https://github.com/stake2722)   | 遠隔のものをいじるじゃん、<br>触覚あったらいいじゃん！ |
 | mkby  | TKO   |   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | 薄井信将  | 東京　| [![facebook](img/facebook.png)](https://www.facebook.com/nobumasa.usui/) [![twitter](img/twitter.png)](https://twitter.com/insn_nqou) [![github](img/github.png)](https://github.com/insn1013)   | パラダイム・シフトのきっかけ、<br>いいことあるじゃん！ |
+| sereka  | 神奈川県    | [![twitter](img/twitter.png)](https://twitter.com/ov_vo) [![github](img/github.png)](https://github.com/tereka)   | あるじゃん、<br>いいことあるじゃん！ |
