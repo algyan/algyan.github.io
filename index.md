@@ -118,3 +118,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | koujik  | 横浜    | [![twitter](img/twitter.png)](https://twitter.com/koujik) [![github](img/github.png)](https://github.com/koujik)   | Lチカからスタート |
 | sato  |  山奥    | [![github](img/github.png)](https://github.com/yamabosi)   | ちょっとした、<br>楽しい暇つぶし |
 | Cognac  | Japan    | [![github](img/github.png)](https://github.com/Cognac-Git)   | 夢 |
+| きくゆた  | 高知県香美市 | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.kikuchi.7549) [![twitter](img/twitter.png)](https://twitter.com/kikuyuta) [![github](img/github.png)](https://github.com/kikuyuta)   | Elixir/Nerves入門<br>お楽しみに |
