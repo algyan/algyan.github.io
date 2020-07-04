@@ -134,7 +134,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Julia  | Tokyo    | [![facebook](img/facebook.png)](https://facebook.com/nakano.hideko.5) [![twitter](img/twitter.png)](https://twitter.com/julia_hn) [![github](img/github.png)](https://github.com/Julia-hn)   | 豊かで、楽しい遊び！ |
 | atoc  | 大阪    | ひみつ　というかほとんど使っていない   | ネットも動かせる組み込み |
 | Tsuka  | 奈良    | [![facebook](img/facebook.png)](https://facebook.com/groups/katsutakat/) [![twitter](img/twitter.png)](https://twitter.com/AkiraSenpai_KT) [![github](img/github.png)](https://github.com/TsukaGit)   | 魔宮<br>そして迷走 |
-| mkt  | shibuya    | [![facebook](img/facebook.png)](https://ja-jp.facebook.com/CompuTrainer/) [![twitter](img/twitter.png)](https://twitter.com/computrainerjpn) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| hki  | shibuya    | [![facebook](img/facebook.png)](https://ja-jp.facebook.com/CompuTrainer/) [![twitter](img/twitter.png)](https://twitter.com/computrainerjpn)  | あかん、<br>これはあかん！ |
 | nono  | 四国    | [![github](img/github.png)](https://github.com/nonosan85)   | うーん<br>難しい！ |
 | myasu  | Kurashiki    | [![facebook](img/facebook.png)](https://www.facebook.com/yasuhiro.miyake.5076) [![twitter](img/twitter.png)](https://twitter.com/etcinitd) [![github](img/github.png)](https://github.com/trihome)   | 技術のサンドボックス |
 | lirevo  | 新潟    | [![facebook](img/facebook.png)](https://www.facebook.com/lirevo.sugi) [![twitter](img/twitter.png)](https://twitter.com/a10teki) | こんなのあるじゃん、<br>いいことあるじゃん！ |
@@ -167,5 +167,3 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | zazi27  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/zazitto27) [![github](img/github.png)](https://github.com/zazi27)   | ダイレクトなユーザー体験を提供できるもの |
 | ynabe009  | 地球    | [![github](img/github.png)](https://github.com/ynabe009)   | なにそれ!?おいしいの？ |
 | 尾塩 健二  | Tokyo   | [![facebook](img/facebook.png)](https://www.facebook.com/profile.php?id=100009136481805&sk=about) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-| Aqua Horizon  |   | [![github](img/github.png)](https://github.com/AquaHorizon)   | 未来への切符 |
-| artinring  | Nagoya    |  [![github](img/github.png)](https://github.com/artinring)   | やること沢山、<br>時間が欲しいよ~。 |
