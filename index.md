@@ -71,4 +71,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-
+| YOKO  | 横浜＿大府    | [![facebook](img/facebook.png)](https://https://www.facebook.com/yoko.fukunaga.54) [![twitter](img/twitter.png)] [![github](img/github.png)](https://https://github.com/Hiromumama)   | 人の効率的管理手法、<br>将来の仕事 |
