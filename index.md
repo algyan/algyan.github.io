@@ -116,3 +116,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Az  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/imuz) [![github](img/github.png)](https://github.com/Azu-Y)   | 自分に便利なおもちゃを作れるツール♪<br>（だといいなぁ） |
 | 出木谷 佳彦 | 地球    | [![github](img/github.png)](https://github.com/dekigai)   | 便利な生活 |
 | koujik  | 横浜    | [![twitter](img/twitter.png)](https://twitter.com/koujik) [![github](img/github.png)](https://github.com/koujik)   | Lチカからスタート |
+| sato  |  山奥    | [![github](img/github.png)](https://github.com/yamabosi)   | ちょっとした、<br>楽しい暇つぶし |
