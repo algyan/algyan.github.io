@@ -173,3 +173,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | linyixian  | 地球    | [![facebook](img/facebook.png)](https://www.facebook.com/yoshinori.hayashi.33) [![twitter](img/twitter.png)](https://twitter.com/linyixian) [![github](img/github.png)](https://github.com/linyixian)   | IoTHub<br>いいことあるじゃん！ |
 | たこぴん  | 鶴見    | [![facebook](img/facebook.png)](https://www.facebook.com/shin.takeuchi.31) [![twitter](img/twitter.png)](https://twitter.com/stake2722) [![github](img/github.png)](https://github.com/stake2722)   | 遠隔のものをいじるじゃん、<br>触覚あったらいいじゃん！ |
 | mkby  | TKO   |   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| 薄井信将  | 東京　| [![facebook](img/facebook.png)](https://www.facebook.com/nobumasa.usui/) [![twitter](img/twitter.png)](https://twitter.com/insn_nqou) [![github](img/github.png)](https://github.com/insn1013)   | パラダイム・シフトのきっかけ、<br>いいことあるじゃん！ |
