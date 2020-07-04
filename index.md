@@ -85,3 +85,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | sannwa_o  | Aichi    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)] [![github](img/github.png)](https://github.com/sannwao)   | IoTはホビーと仕事(?) |
 | 通りすがり  | 岡山    |[![github](img/github.png)](https://github.com/mrkwllstn)   | 不思議の国 |
 | ヒロキ | 熊本    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | モノづくり|
+| いずみ♡  | 京都    | [![facebook](img/facebook.png)](https://www.facebook.com/izumitomonori) [![twitter](img/twitter.png)](https://twitter.com/izumitomonori) [![github](img/github.png)](https://github.com/izumitomonori)   | わかんなぃ… |
