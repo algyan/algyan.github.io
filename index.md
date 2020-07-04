@@ -4,6 +4,12 @@ title: IoT ALGYAN 公式Webサイト
 description: IoTあるじゃん
 ---
 
+<style>
+  .btn {
+    display: none;
+  }
+</style>
+
 ## IoT ALGYAN 公式Webサイト
 
 IoT ALGYAN は、<font color="red" size="5">IoTを学べる最強コミュニティ</font>です。
@@ -202,4 +208,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | masahiko03      | 神奈川 | [![github](img/github.png)](https://github.com/masahiko03)   | 無限の可能性を感じます |
 | Natsumi HORI | 大阪 | [![facebook](img/facebook.png)](https://facebook.com/HN0722) [![twitter](img/twitter.png)](https://twitter.com/_handle_name) [![github](img/github.png)](https://github.com/horinat)   | プログラミング、<br>できるようになりたい！ |
 | yohata    | JP  | ひみつ！　　| べんりなもの！！ |
-
+| kabekin  | 広島    |  [![github](img/github.png)](https://github.com/kabekin)   | 楽しいマイコン |
+| Ryosukelly  | 埼玉    | [![facebook](img/facebook.png)](https://www.facebook.com/ryosukelly.slater) [![github](img/github.png)](https://github.com/ryosuke-imai)   | AIとIOT、<br>でなにか楽しいことしたい |
