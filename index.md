@@ -136,3 +136,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Tsuka  | 奈良    | [![facebook](img/facebook.png)](https://facebook.com/groups/katsutakat/) [![twitter](img/twitter.png)](https://twitter.com/AkiraSenpai_KT) [![github](img/github.png)](https://github.com/TsukaGit)   | 魔宮<br>そして迷走 |
 | mkt  | shibuya    | [![facebook](img/facebook.png)](https://ja-jp.facebook.com/CompuTrainer/) [![twitter](img/twitter.png)](https://twitter.com/computrainerjpn) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | nono  | 四国    | [![github](img/github.png)](https://github.com/nonosan85)   | うーん<br>難しい！ |
+| myasu  | Kurashiki    | [![facebook](img/facebook.png)](https://www.facebook.com/yasuhiro.miyake.5076) [![twitter](img/twitter.png)](https://twitter.com/etcinitd) [![github](img/github.png)](https://github.com/trihome)   | 技術のサンドボックス |
