@@ -71,4 +71,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-
+| 桜井　厚 ![image](https://avatars0.githubusercontent.com/u/64763?s=40) | 名古屋市    | [![linkedin](img/linkedin.png)](https://www.linkedin.com/in/sakurai-atsushi-84692111b/) [![github](img/github.png)](https://github.com/mocapapa/)   | 何か作りたい |
