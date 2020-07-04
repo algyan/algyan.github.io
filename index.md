@@ -4,6 +4,12 @@ title: IoT ALGYAN 公式Webサイト
 description: IoTあるじゃん
 ---
 
+<style>
+  .btn {
+    display: none;
+  }
+</style>
+
 ## IoT ALGYAN 公式Webサイト
 
 IoT ALGYAN は、<font color="red" size="5">IoTを学べる最強コミュニティ</font>です。
