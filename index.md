@@ -89,3 +89,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Y.Fujita  | 神戸    | [![twitter](img/twitter.png)](https://twitter.com/YSFT_KOBE) [![github](img/github.png)](https://github.com/YSFT-KOBE)   | 恋人です！ |
 | あらやん  | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/ArayanAce)   | なんもないんだな。 |
 | 西川幸延　  | 金沢    | [![facebook](img/facebook.png)](https://facebook.com/groups/doraetrobo/) [![twitter](img/twitter.png)](https://twitter.com/dora_etrobo) [![github](img/github.png)](https://github.com/etrobo)   | IoTラブ、<br>楽しい！ |
+| arigema  | 地球    | [![github](img/github.png)](https://github.com/arigema)   | 気になっていること<br>知りたいことあるじゃん！ |
