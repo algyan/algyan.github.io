@@ -114,3 +114,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Atomu Hidaka  | 東京・府中市  | [![facebook](img/facebook.png)](https://www.facebook.com/ahidaka) [![twitter](img/twitter.png)](https://twitter.com/AtomuHidaka) [![github](img/github.png)](https://github.com/ahidaka)   | GitHub 最高！違うか。IoT最高！ |
 | fu  | 東京    | [![github](img/github.png)](https://github.com/fu-s28)   | いろいろ<br>おもしろい<br>つながり |
 | Az  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/imuz) [![github](img/github.png)](https://github.com/Azu-Y)   | 自分に便利なおもちゃを作れるツール♪<br>（だといいなぁ） |
+| 出木谷 佳彦 | 地球    | [![github](img/github.png)](https://github.com/dekigai)   | 便利な生活 |
