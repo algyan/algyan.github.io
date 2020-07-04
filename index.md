@@ -95,3 +95,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | m1test  | 田舎    | [![facebook](img/facebook.png)](https://facebook.com/m1test/) [![twitter](img/twitter.png)](https://twitter.com/m1test) [![github](img/github.png)](https://github.com/mitest)   | IoT…縁ないなぁ |
 | こにし  | 大阪  |  [![github](img/github.png)](https://github.com/akimasakonishi/) | ちょっとだけ触れる！ |
 | katakaku | 太陽系    |  [![twitter](img/twitter.png)](https://twitter.com/konekonopapa) [![github](img/github.png)](https://github.com/katakaku)   | ネコでもできるかな、<br>いいことあるじゃん！ |
+| 桜井　厚 ![image](https://avatars0.githubusercontent.com/u/64763?s=40) | 名古屋市    | [![github](img/github.png)](https://github.com/mocapapa/)   | 何か作りたい |
