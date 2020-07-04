@@ -72,14 +72,16 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | 小暮敦彦（ALGYAN理事長だっ）  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | 総合格闘技と癒し<br>そして、トキメキ！ |
+| Kento  | 福岡のどっか   | [![twitter](img/twitter.png)](https://twitter.com/4LX16iBzdWveOoZ) [![github](img/github.png)](https://github.com/njc50047)   | 趣味
 | takasehideki  | 京都    | [![facebook](img/facebook.png)](https://facebook.com/takasehideki) [![twitter](img/twitter.png)](https://twitter.com/TAKASEhideki) [![github](img/github.png)](https://github.com/takasehideki)   | テクノロジーへの愛！ |
-| y-chinen  | Kyushu    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | ワクワク！ |
 | ないじゃん  | 宇宙    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | なんにもないじゃん、<br>うまいはなしなんてないじゃん！ |
 | sahorange      | Tokyo    | SNS | セミナー参加中 |
 | YukoHara  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/yuko.hara.58760/) [![twitter](img/twitter.png)](https://twitter.com/mameko0211) [![github](img/github.png)](https://github.com/YukoHara555/hello-world)   | テクノロジーの変化に頑張ってついていきます |
 | みほ | かながわ    | [![facebook](img/facebook.png)](https://www.facebook.com/miho.nagahama.98) [![twitter](img/twitter.png)](https://twitter.com/Miho_x_x_N) [![github](img/github.png)](https://github.com/MihoNagahama)   | できてんのかな<br>どきどき |
 | おおえ      | あるじゃん | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.ohe/) [![github](img/github.png)](https://github.com/y-ohe)   | いろいろなガジェットを<br>組み合わせ自由にネットに繋いで<br>いいことあるじゃん！ |
 | 吉田健一  | 香川    | [![facebook](img/facebook.png)](https://www.facebook.com/setouchimusic1167/) [![twitter](img/twitter.png)](https://twitter.com/home?lang=ja) [![github](img/github.png)](https://github.com/scbc1167)   |ちょっと先の未来を拓くテクノロジー|
+| みずりゅ  | 神奈川    | [![twitter](img/twitter.png)](https://twitter.com/MzRyuKa) [![github](img/github.png)](https://github.com/rykawamu)   |Nerves楽しいですよ|
+| TakSan  | 大阪    | [![facebook](img/facebook.png)](https://www.facebook.com/TakSan0) [![twitter](img/twitter.png)](https://twitter.com/TakSan0) [![github](img/github.png)](https://github.com/TakSan0/)   | まだまだモヤモヤ |
 | robojp    | 名古屋 | [![facebook](img/facebook.png)](https://facebook.com/robojp/) [![twitter](img/twitter.png)](https://twitter.com/robojp) [![github](img/github.png)](https://github.com/robojp)   | こんなのあるじゃん、<br>とってもいいことあるじゃん！ |
 | sone | 浜松    | [![facebook](img/facebook.png)](https://www.facebook.com/takuro.sone.1) [![twitter](img/twitter.png)](hhttps://twitter.com/s_o_n_e) [![github](img/github.png)](https://github.com/s-o-n-e)   |  |
 | gpsnmea  | 神奈川 | [![facebook](img/facebook.png)](https://facebook.com/gpsnmea/) [![twitter](img/twitter.png)](https://twitter.com/gpsnmea) [![github](img/github.png)](https://github.com/gpsnmea)   | 電子工作大好き、3Dプリンター最高! |
@@ -90,6 +92,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Y.Fujita  | 神戸    | [![twitter](img/twitter.png)](https://twitter.com/YSFT_KOBE) [![github](img/github.png)](https://github.com/YSFT-KOBE)   | 恋人です！ |
 | あらやん  | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/ArayanAce)   | なんもないんだな。 |
 | 西川幸延　  | 金沢    | [![facebook](img/facebook.png)](https://facebook.com/groups/doraetrobo/) [![twitter](img/twitter.png)](https://twitter.com/dora_etrobo) [![github](img/github.png)](https://github.com/etrobo)   | IoTラブ、<br>楽しい！ |
+| 前野秀史　  | 東京    | [![facebook](img/facebook.png)](https://facebook.com/hideshi.maeno/) [![twitter](img/twitter.png)](https://twitter.com/skycatneo) [![github](img/github.png)](https://github.com/maenoh)   | アイデアを<br>形に！ |
 | arigema  | 地球    | [![github](img/github.png)](https://github.com/arigema)   | 気になっていること<br>知りたいことあるじゃん！ |
 |たていし|多摩南部〜相模原| [![facebook](img/facebook.png)](https://www.facebook.com/akira.ignote) [![github](img/github.png)](https://github.com/greennote)|現実世界との架け橋|
 | m1test  | 田舎    | [![facebook](img/facebook.png)](https://facebook.com/m1test/) [![twitter](img/twitter.png)](https://twitter.com/m1test) [![github](img/github.png)](https://github.com/mitest)   | IoT…縁ないなぁ |
@@ -166,4 +169,30 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | asoda  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiro.soda/) [![twitter](img/twitter.png)](https://twitter.com/home) [![github](img/github.png)](https://github.com/atsuhirosoda)   | 引きこもって完全リモートワークするためのお道具 |
 | zazi27  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/zazitto27) [![github](img/github.png)](https://github.com/zazi27)   | ダイレクトなユーザー体験を提供できるもの |
 | ynabe009  | 地球    | [![github](img/github.png)](https://github.com/ynabe009)   | なにそれ!?おいしいの？ |
-| TakSan  | 大阪    | [![facebook](img/facebook.png)](https://www.facebook.com/TakSan0) [![twitter](img/twitter.png)](https://twitter.com/TakSan0) [![github](img/github.png)](https://github.com/TakSan0/)   | まだまだモヤモヤ |
+| 尾塩 健二  | Tokyo   | [![facebook](img/facebook.png)](https://www.facebook.com/profile.php?id=100009136481805&sk=about) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| Aqua Horizon  |   | [![github](img/github.png)](https://github.com/AquaHorizon)   | 未来への切符 |
+| artinring  | Nagoya    |  [![github](img/github.png)](https://github.com/artinring)   | やること沢山、<br>時間が欲しいよ~。 |
+| shu0812  | 西東京    | [![facebook](img/facebook.png)](https://facebook.com/sota221017) [![twitter](img/twitter.png)](https://twitter.com/shu__0812) [![github](img/github.png)](https://github.com/shusuke0812)   | ワクワクするものづくり  |
+| linyixian  | 地球    | [![facebook](img/facebook.png)](https://www.facebook.com/yoshinori.hayashi.33) [![twitter](img/twitter.png)](https://twitter.com/linyixian) [![github](img/github.png)](https://github.com/linyixian)   | IoTHub<br>いいことあるじゃん！ |
+| たこぴん  | 鶴見    | [![facebook](img/facebook.png)](https://www.facebook.com/shin.takeuchi.31) [![twitter](img/twitter.png)](https://twitter.com/stake2722) [![github](img/github.png)](https://github.com/stake2722)   | 遠隔のものをいじるじゃん、<br>触覚あったらいいじゃん！ |
+| mkby  | TKO   |   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| 薄井信将  | 東京　| [![facebook](img/facebook.png)](https://www.facebook.com/nobumasa.usui/) [![twitter](img/twitter.png)](https://twitter.com/insn_nqou) [![github](img/github.png)](https://github.com/insn1013)   | パラダイム・シフトのきっかけ、<br>いいことあるじゃん！ |
+| sereka  | 神奈川県    | [![twitter](img/twitter.png)](https://twitter.com/ov_vo) [![github](img/github.png)](https://github.com/tereka)   | あるじゃん、<br>いいことあるじゃん！ |
+| tokky  | 地球    |   | ここになにかが表示される |
+| にしだ ゆうき  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/rabbits1987) [![twitter](img/twitter.png)](https://twitter.com/rabbits1987) [![github](img/github.png)](https://github.com/Nyuuki0224)   | 情熱を注ぐに値する面白い概念！ |
+| ひろさん  | 横浜    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | リタイヤ後のやりがい、<br>いいことあるじゃん！ |
+| moruxa | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/moruxa.nanda/) [![twitter](img/twitter.png)](https://twitter.com/moruxa) [![github](img/github.png)](https://github.com/moruxa)   | 来世に期待 |
+| JESSICA-YXS  | 地球    |    |    |
+| MH  | 品川    | [![facebook](img/facebook.png)](https://facebook.com/groups/minghong/) [![twitter](img/twitter.png)](https://twitter.com/minghong) [![github](img/github.png)](https://github.com/minghong)   | 最高の趣味、<br>がんばれIoT！ |
+| YASCODE  | Japan    | [![github](img/github.png)](https://github.com/yascode)   | ！ |
+| yuri-k-t  | 神奈川    |  | おもちゃ箱 |
+| pokibon  | 相模原  | [![facebook](img/facebook.png)](https://facebook.com/kimio.ohe) [![twitter](img/twitter.png)](https://twitter.com/pokibon) [![github](img/github.png)](https://github.com/pokibon)   | 出会い、<br>と愛！ |
+| Koki mu | 神奈川    | [![twitter](img/twitter.png)](https://twitter.com/Kokimu2Kokimu) [![github](img/github.png)](https://github.com/Kokimu2Kokimu)   | ！ |
+| kinoko  | 地球    | なし   | 興味のあるもの |
+| ykk  | 東京    |  | test<br> |
+| 伊藤　裕一  | 東京    |    | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| yukkuriDo  | 大阪   | [![github](img/github.png)](https://github.com/yukkuriDo)   | 面白い最新技術 |
+| jing  | 広島    |[![github](img/github.png)](https://github.com/ztujing) | いいじゃん！ |
+| いずみ♡  | 京都    | [![facebook](img/facebook.png)](https://www.facebook.com/izumitomonori) [![twitter](img/twitter.png)](https://twitter.com/izumitomonori) [![github](img/github.png)](https://github.com/izumitomonori)   | わかんなぃ… |
+| masahiko03      | 神奈川 | [![github](img/github.png)](https://github.com/masahiko03)   | 無限の可能性を感じます |
+| Natsumi HORI | 大阪 | [![facebook](img/facebook.png)](https://facebook.com/HN0722) [![twitter](img/twitter.png)](https://twitter.com/_handle_name) [![github](img/github.png)](https://github.com/horinat)   | プログラミング、<br>できるようになりたい！ |
