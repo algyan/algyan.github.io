@@ -134,3 +134,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Julia  | Tokyo    | [![facebook](img/facebook.png)](https://facebook.com/nakano.hideko.5) [![twitter](img/twitter.png)](https://twitter.com/julia_hn) [![github](img/github.png)](https://github.com/Julia-hn)   | 豊かで、楽しい遊び！ |
 | atoc  | 大阪    | ひみつ　というかほとんど使っていない   | ネットも動かせる組み込み |
 | Tsuka  | 奈良    | [![facebook](img/facebook.png)](https://facebook.com/groups/katsutakat/) [![twitter](img/twitter.png)](https://twitter.com/AkiraSenpai_KT) [![github](img/github.png)](https://github.com/TsukaGit)   | 魔宮<br>そして迷走 |
+| mkt  | shibuya    | [![facebook](img/facebook.png)](https://ja-jp.facebook.com/CompuTrainer/) [![twitter](img/twitter.png)](https://twitter.com/computrainerjpn) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
