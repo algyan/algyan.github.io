@@ -169,3 +169,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 尾塩 健二  | Tokyo   | [![facebook](img/facebook.png)](https://www.facebook.com/profile.php?id=100009136481805&sk=about) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | Aqua Horizon  |   | [![github](img/github.png)](https://github.com/AquaHorizon)   | 未来への切符 |
 | artinring  | Nagoya    |  [![github](img/github.png)](https://github.com/artinring)   | やること沢山、<br>時間が欲しいよ~。 |
+| shu0812  | 西東京    | [![facebook](img/facebook.png)](https://facebook.com/sota221017) [![twitter](img/twitter.png)](https://twitter.com/shu__0812) [![github](img/github.png)](https://github.com/shusuke0812)   | ワクワクするものづくり  |
