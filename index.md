@@ -101,3 +101,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | KogaSense  | 札幌    | [![facebook](img/facebook.png)](https://facebook.com/takaaki.koga.98/) [![twitter](img/twitter.png)](https://twitter.com/KogaSense) [![github](img/github.png)](https://github.com/algyan)   | 老後の生業 |
 | Cyber-U9  | 神奈川    |[![github](img/github.png)](https://github.com/Cyber-U9)   | 夢があるじゃん！ |
 | utuka8086 | 関東    | [![github](img/github.png)](https://github.com/utuka8080)   | IOT<br>IOT! |
+| keni-n  |  東京   | [![facebook](img/facebook.png)](https://facebook.com/KenichiNagai) [![github](img/github.png)](https://github.com/keni-n)   | 自分で作るもの |
