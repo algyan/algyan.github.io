@@ -33,6 +33,18 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 ## イベント情報
 
+### 近日開催予定
+
+<table>
+  <thead>
+    <tr>
+      <th>日付</th>
+      <th>イベントタイトル</th>
+    </tr>
+  </thead>
+  <tbody id="event_list"></tbody>
+</table>
+
 [イベントページはこちら https://algyan.connpass.com/
 ![connpass](/img/connpass.png)
 ](https://algyan.connpass.com/)
