@@ -70,5 +70,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
-| moruxa | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/nanda.moruxa/) [![twitter](img/twitter.png)](https://twitter.com/moruxa) [![github](img/github.png)](https://github.com/moruxa)   | 来世に期待 |
+| moruxa | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/moruxa.nanda/) [![twitter](img/twitter.png)](https://twitter.com/moruxa) [![github](img/github.png)](https://github.com/moruxa)   | 来世に期待 |
 
