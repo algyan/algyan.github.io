@@ -142,3 +142,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | excl-zoo  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/exclzoo) [![github](img/github.png)](https://github.com/exclzoo)   | 何が新しいのかわからないのがいい！ |
 | holy  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/holy) [![github](img/github.png)](https://github.com/Tomo-Horiuchi)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | いぎ  | 大阪    | [![facebook](img/facebook.png)](https://facebook.com/yasu.igi/) [![twitter](img/twitter.png)](https://twitter.com/igiy) [![github](img/github.png)](https://github.com/igiy)   | いろんなことができる夢の入り口 |
+| usertumi  | kanagawa    | [![github](img/github.png)](https://github.com/usertumi)   | 手軽にできる<br>モノづくり |
