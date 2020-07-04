@@ -156,3 +156,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | robin29man  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/soichiro.inoue.92/) [![twitter](img/twitter.png)](https://twitter.com/schr_i) [![github](img/github.png)](https://github.com/robin29man)   | 自分の頭の中を形にするところ |
 | A.T   | 暮れの町    |  |暮れの町の夜明け |
 | AyFy785  | 地球    |  [![github](img/github.png)](https://github.com/AyFy785)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| osamnunize  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/osamunize) [![twitter](img/twitter.png)](https://twitter.com/osamunize) [![github](img/github.png)](https://github.com/osamunize)   | GitHub完全に理解した |
