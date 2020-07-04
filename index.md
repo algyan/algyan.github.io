@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-| 小暮敦彦（ALGYAN理事長だっ）  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | 総合格闘技と癒し<br>そして、トキメキ！ |
+| おおえ      | あるじゃん | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.ohe/) [![github](img/github.png)](https://github.com/y-ohe)   | いろいろなガジェットを<br>組み合わせ自由にネットに繋いで<br>いいことあるじゃん！ |
+
