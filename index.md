@@ -73,7 +73,6 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | 小暮敦彦（ALGYAN理事長だっ）  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | 総合格闘技と癒し<br>そして、トキメキ！ |
 | takasehideki  | 京都    | [![facebook](img/facebook.png)](https://facebook.com/takasehideki) [![twitter](img/twitter.png)](https://twitter.com/TAKASEhideki) [![github](img/github.png)](https://github.com/takasehideki)   | テクノロジーへの愛！ |
-| y-chinen  | Kyushu    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | ワクワク！ |
 | ないじゃん  | 宇宙    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | なんにもないじゃん、<br>うまいはなしなんてないじゃん！ |
 | sahorange      | Tokyo    | SNS | セミナー参加中 |
 | YukoHara  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/yuko.hara.58760/) [![twitter](img/twitter.png)](https://twitter.com/mameko0211) [![github](img/github.png)](https://github.com/YukoHara555/hello-world)   | テクノロジーの変化に頑張ってついていきます |
@@ -81,7 +80,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | おおえ      | あるじゃん | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.ohe/) [![github](img/github.png)](https://github.com/y-ohe)   | いろいろなガジェットを<br>組み合わせ自由にネットに繋いで<br>いいことあるじゃん！ |
 | 吉田健一  | 香川    | [![facebook](img/facebook.png)](https://www.facebook.com/setouchimusic1167/) [![twitter](img/twitter.png)](https://twitter.com/home?lang=ja) [![github](img/github.png)](https://github.com/scbc1167)   |ちょっと先の未来を拓くテクノロジー|
 | robojp    | 名古屋 | [![facebook](img/facebook.png)](https://facebook.com/robojp/) [![twitter](img/twitter.png)](https://twitter.com/robojp) [![github](img/github.png)](https://github.com/robojp)   | こんなのあるじゃん、<br>とってもいいことあるじゃん！ |
-| sone | 浜松    | [![facebook](img/facebook.png)](https://www.facebook.com/takuro.sone.1) [![twitter](img/twitter.png)](hhttps://twitter.com/s_o_n_e) [![github](img/github.png)](https://github.com/s-o-n-e)   |  |
+| sone | 浜松    | [![facebook](img/facebook.png)](https://www.facebook.com/takuro.sone.1) [![twitter](img/twitter.png)](https://twitter.com/s_o_n_e) [![github](img/github.png)](https://github.com/s-o-n-e)   | Motorcycle IoT! |
 | gpsnmea  | 神奈川 | [![facebook](img/facebook.png)](https://facebook.com/gpsnmea/) [![twitter](img/twitter.png)](https://twitter.com/gpsnmea) [![github](img/github.png)](https://github.com/gpsnmea)   | 電子工作大好き、3Dプリンター最高! |
 | sannwa_o  | Aichi    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)] [![github](img/github.png)](https://github.com/sannwao)   | IoTはホビーと仕事(?) |
 | 通りすがり  | 岡山    |[![github](img/github.png)](https://github.com/mrkwllstn)   | 不思議の国 |
@@ -91,5 +90,3 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | あらやん  | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/ArayanAce)   | なんもないんだな。 |
 | 西川幸延　  | 金沢    | [![facebook](img/facebook.png)](https://facebook.com/groups/doraetrobo/) [![twitter](img/twitter.png)](https://twitter.com/dora_etrobo) [![github](img/github.png)](https://github.com/etrobo)   | IoTラブ、<br>楽しい！ |
 | arigema  | 地球    | [![github](img/github.png)](https://github.com/arigema)   | 気になっていること<br>知りたいことあるじゃん！ |
-|たていし|多摩南部〜相模原| [![facebook](img/facebook.png)](https://www.facebook.com/akira.ignote) [![github](img/github.png)](https://github.com/greennote)|現実世界との架け橋|
-| m1test  | 田舎    | [![facebook](img/facebook.png)](https://facebook.com/m1test/) [![twitter](img/twitter.png)](https://twitter.com/m1test) [![github](img/github.png)](https://github.com/mitest)   | IoT…縁ないなぁ |
