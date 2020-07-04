@@ -181,3 +181,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 　JESSICA-YXS  | 地球    |    |    |
 | MH  | 品川    | [![facebook](img/facebook.png)](https://facebook.com/groups/minghong/) [![twitter](img/twitter.png)](https://twitter.com/minghong) [![github](img/github.png)](https://github.com/minghong)   | 最高の趣味、<br>がんばれIoT！ |
 | YASCODE  | Japan    | [![github](img/github.png)](https://github.com/yascode)   | ！ |
+| yuri-k-t  | 神奈川    |  | おもちゃ箱 |
