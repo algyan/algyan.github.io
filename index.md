@@ -73,4 +73,3 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | いぎ  | 大阪    | [![facebook](img/facebook.png)](https://facebook.com/yasu.igi/) [![twitter](img/twitter.png)](https://twitter.com/igiy) [![github](img/github.png)](https://github.com/igiy)   | いろんなことができる夢の入り口 |
 
-
