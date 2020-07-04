@@ -92,6 +92,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 |matsujirushi|愛知|[![facebook](img/facebook.png)](https://www.facebook.com/takashi.matsuoka.37) [![twitter](img/twitter.png)](https://twitter.com/matsujirushi12) [![github](img/github.png)](https://github.com/matsujirushi)|ものづくり|
 | Y.Fujita  | 神戸    | [![twitter](img/twitter.png)](https://twitter.com/YSFT_KOBE) [![github](img/github.png)](https://github.com/YSFT-KOBE)   | 恋人です！ |
 | あらやん  | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/ArayanAce)   | なんもないんだな。 |
+| yoshiwo  | 火星    | [![twitter](img/twitter.png)](https://twitter.com/ashioto521) [![github](img/github.png)](https://github.com/yoshiwo115)   | 命 |
 | 西川幸延　  | 金沢    | [![facebook](img/facebook.png)](https://facebook.com/groups/doraetrobo/) [![twitter](img/twitter.png)](https://twitter.com/dora_etrobo) [![github](img/github.png)](https://github.com/etrobo)   | IoTラブ、<br>楽しい！ |
 | 前野秀史　  | 東京    | [![facebook](img/facebook.png)](https://facebook.com/hideshi.maeno/) [![twitter](img/twitter.png)](https://twitter.com/skycatneo) [![github](img/github.png)](https://github.com/maenoh)   | アイデアを<br>形に！ |
 | arigema  | 地球    | [![github](img/github.png)](https://github.com/arigema)   | 気になっていること<br>知りたいことあるじゃん！ |
