@@ -124,3 +124,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ygoto  | niigata    | [![twitter](img/twitter.png)](https://twitter.com/YAckerman4) [![github](img/github.png)](https://github.com/yoshua-ackerman)   | aaa |
 | gitochan88  | 大阪    | [![facebook](img/facebook.png)](https://www.facebook.com/atsushi.itoh.37) [![twitter](img/twitter.png)](https://twitter.com/a_itochan) [![github](img/github.png)](https://github.com/gitochan88)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | BotanicFields | 川崎市 | [![facebook](img/facebook.png)](https://www.facebook.com/botanicfields/) [![twitter](img/twitter.png)](https://twitter.com/botanicfields) [![github](img/github.png)](https://github.com/botanicfields)   | to be one of Makers、<br>To be! |
+| mtikeda  | M's    | [[![twitter](img/twitter.png)](https://twitter.com/mtikeda) [![github](img/github.png)](https://github.com/mtikedagit)   | 未知 |
