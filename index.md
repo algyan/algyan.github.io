@@ -188,3 +188,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 前野　秀史  | 東京    | [![facebook](img/facebook.png)](https://facebook.com/hideshi.maeno/) [![twitter](img/twitter.png)](https://twitter.com/skycatneo) [![github](img/github.png)](https://github.com/maenoh)   | アイデアの<br>提案場所 |
 | ykk  | 東京    |  | test<br> |
 | 伊藤　裕一  | 東京    |    | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| yukkuriDo  | 大阪   | [![github](img/github.png)](https://github.com/yukkuriDo)   | 面白い最新技術 |
