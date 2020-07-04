@@ -103,10 +103,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | utuka8086 | 関東    | [![github](img/github.png)](https://github.com/utuka8080)   | IOT<br>IOT! |
 | keni-n  |  東京   | [![facebook](img/facebook.png)](https://facebook.com/KenichiNagai) [![github](img/github.png)](https://github.com/keni-n)   | 自分で作るもの |
 | 安藤沙樹  | 仙台    | [![twitter](img/twitter.png)](https://twitter.com/PolTabasko) [![github](img/github.png)](https://github.com/and1720015)   | ロマンと可能性無限大 |
-| 5002202  | 長野    |  | 役に立たない |
-| Susumu  | 滋賀    | [![github](img/github.png)](https://github.com/SusumuOoe)   | AIとの両輪技術! |
-| @tatsu1225  | くまもと    | [![facebook](img/facebook.png)](https://www.facebook.com/oikawa.tatsuhiro) [![twitter](img/twitter.png)](https://twitter.com/home) [![github](img/github.png)](https://github.com/tatsu1225)   | IoTあるじゃん！<br>組込み |
-| hiroyuki_0252  | 鎌倉    | [![facebook](img/facebook.png)](https://www.facebook.com/hiroyuki.matsubara.58) [![github](img/github.png)](https://github.com/hrmatsubara)   | 最高の暇潰し！ |
-| motoms  | 東京    | [![facebook](img/facebook.png)](https://https://www.facebook.com/profile.php?id=100000160636541) [![github](img/github.png)](https://github.com/makermotomi)   | 興味のままに楽しむ！、<br>動いたら面白い！ |
-| ながひさ  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/kenzo.nagahisa/) [![twitter](img/twitter.png)](https://twitter.com/kenzonag) [![github](img/github.png)](https://github.com/nagahisa)   | 良いかげんで、<br>ぼちぼちやろうねー |
-| 弘T  | 関西    | [![facebook](img/facebook.png)](https://facebook.com/遠塚弘) [![github](img/github.png)](https://github.com/HiroshiTotsuka)   | 勉強してます<br>苦戦中|
+| tamotsu777  | 地球    | [![twitter](img/twitter.png)](https://twitter.com/tamotsu777) [![github](img/github.png)](https://github.com/tamotsu777)   | 未来 |
