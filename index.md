@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| 西川幸延　  | 金沢    | [![facebook](img/facebook.png)](https://facebook.com/groups/doraetrobo/) [![twitter](img/twitter.png)](https://twitter.com/dora_etrobo) [![github](img/github.png)](https://github.com/etrobo)   | IoTラブ、<br>楽しい！ |
 
