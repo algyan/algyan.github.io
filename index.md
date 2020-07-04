@@ -150,3 +150,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | tonegawa | 地球    |  [![twitter](img/twitter.png)](https://twitter.com/to_ne_gawa) [![github](img/github.png)](https://github.com/tnriver)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | tyokochin  | ｔokyo    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/tyokochin)   | 便利そう |
 | Watabou  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/wataru.kato.186) [![twitter](img/twitter.png)](https://twitter.com/zae38) [![github](img/github.png)](https://github.com/watarukato)   | 永遠のLチカ<br>そろそろLチカの次へ  |
+| 夏目久作  | 茨城県    | [![twitter][![github](img/github.png)](https://github.com/qsaku)   | 現在勉強中です！ |
