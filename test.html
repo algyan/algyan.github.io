@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ALGYANイベント一覧</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+  <div class="container my-5">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>日付</th>
+          <th>イベントタイトル</th>
+        </tr>
+      </thead>
+      <tbody id="event_list"></tbody>
+    </table>
+  </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(function() {
+  // 現在の年月を取得
+  let d = new Date();
+  let year = d.getFullYear();
+  let month = d.getMonth() + 1;
+  // 来月の年月を設定
+  let nextYear = month === 12 ? year + 1 : year;
+  let nextMonth = month === 12 ? 1 : month;
+  // クエリ文字列に変換
+  let ym1 = year.toString() + month.toString().padStart(2, '0');
+  let ym2 = year.toString() + month.toString().padStart(2, '0');
+  // connpasイベント取得URL
+  let url = "https://connpass.com/api/v1/event/?series_id=1561&order=2&ym=" + ym1 + "&ym=" + ym2 + "&callback=event_list_init";
+  let scr = document.createElement('script');
+  scr.src = url;
+  $('body').append(scr);
+});
+function event_list_init(data) {
+  data.events.forEach(function(event) {
+    console.log(event);
+    let event_date = event.started_at;
+    let dateStr = event_date.substring(0, event_date.indexOf('T'));
+    dateStr = dateStr.replace(/-/gi, '/');
+    event_date = Date.parse(event_date);
+    if (event_date > new Date()) {
+      $('#event_list').append('<tr><td>' + dateStr + '</td><td><a href="' + event.event_url + '">' + event.title + '</a></td></tr>');
+    }
+  });
+}
+</script>
+</html>
