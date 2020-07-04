@@ -72,4 +72,3 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | holy  | 東京    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)](https://twitter.com/holy) [![github](img/github.png)](https://github.com/Tomo-Horiuchi)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-
