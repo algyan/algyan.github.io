@@ -168,3 +168,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ynabe009  | 地球    | [![github](img/github.png)](https://github.com/ynabe009)   | なにそれ!?おいしいの？ |
 | 尾塩 健二  | Tokyo   | [![facebook](img/facebook.png)](https://www.facebook.com/profile.php?id=100009136481805&sk=about) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | Aqua Horizon  |   | [![github](img/github.png)](https://github.com/AquaHorizon)   | 未来への切符 |
+| artinring  | Nagoya    |  [![github](img/github.png)](https://github.com/artinring)   | やること沢山、<br>時間が欲しいよ~。 |
