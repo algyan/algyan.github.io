@@ -105,4 +105,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 安藤沙樹  | 仙台    | [![twitter](img/twitter.png)](https://twitter.com/PolTabasko) [![github](img/github.png)](https://github.com/and1720015)   | ロマンと可能性無限大 |
 | 5002202  | 長野    |  | 役に立たない |
 | Susumu  | 滋賀    | [![github](img/github.png)](https://github.com/SusumuOoe)   | AIとの両輪技術! 
-| Shoko  | 福岡    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/shoko93/)   | 無限に広がる可能性 |
+| Shoko  | 福岡    | [![facebook](img/facebook.png)](https://www.facebook.com/shoko.ishigaki.3) [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/shoko93/)   | 無限に広がる可能性 |
