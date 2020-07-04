@@ -119,3 +119,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | sato  |  山奥    | [![github](img/github.png)](https://github.com/yamabosi)   | ちょっとした、<br>楽しい暇つぶし |
 | Cognac  | Japan    | [![github](img/github.png)](https://github.com/Cognac-Git)   | 夢 |
 | きくゆた  | 高知県香美市 | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.kikuchi.7549) [![twitter](img/twitter.png)](https://twitter.com/kikuyuta) [![github](img/github.png)](https://github.com/kikuyuta)   | Elixir/Nerves入門<br>お楽しみに |
+| 鄭　喆敏（テイ　アキトシ）  | 信州    | [![facebook](img/facebook.png)](https://facebook.com/akitoshi.tei) [![twitter](img/twitter.png)](https://twitter.com/akitoshi_tei) [![github](img/github.png)](https://github.com/AkitoshiTei)   | 信州南部を拠点に活動しています。<br>IoTは生活を楽しくするためのツールだと思います。 |
