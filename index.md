@@ -141,3 +141,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | test  | Moon    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | 楽をして早く帰るためのもの |
 | excl-zoo  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/exclzoo) [![github](img/github.png)](https://github.com/exclzoo)   | 何が新しいのかわからないのがいい！ |
 | holy  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/holy) [![github](img/github.png)](https://github.com/Tomo-Horiuchi)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| いぎ  | 大阪    | [![facebook](img/facebook.png)](https://facebook.com/yasu.igi/) [![twitter](img/twitter.png)](https://twitter.com/igiy) [![github](img/github.png)](https://github.com/igiy)   | いろんなことができる夢の入り口 |
