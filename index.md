@@ -77,3 +77,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ないじゃん  | 宇宙    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | なんにもないじゃん、<br>うまいはなしなんてないじゃん！ |
 | sahorange      | Tokyo    | SNS | セミナー参加中 |
 | YukoHara  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/yuko.hara.58760/) [![twitter](img/twitter.png)](https://twitter.com/mameko0211) [![github](img/github.png)](https://github.com/YukoHara555/hello-world)   | テクノロジーの変化に頑張ってついていきます |
+| みほ | かながわ    | [![facebook](img/facebook.png)](https://www.facebook.com/miho.nagahama.98) [![twitter](img/twitter.png)](https://twitter.com/Miho_x_x_N) [![github](img/github.png)](https://github.com/MihoNagahama)   | できてんのかな<br>どきどき |
