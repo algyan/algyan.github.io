@@ -71,4 +71,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-
+| nakkyi | japan    | [![facebook](img/facebook.png)](https://facebook.com/中村恭一) [![twitter](img/twitter.png)](https://twitter.com/nakkyi) [![github](img/github.png)](https://github.com/nakkyi)   | 自動運転技術 <br>|
