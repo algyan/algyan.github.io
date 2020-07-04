@@ -94,3 +94,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 |たていし|多摩南部〜相模原| [![facebook](img/facebook.png)](https://www.facebook.com/akira.ignote) [![github](img/github.png)](https://github.com/greennote)|現実世界との架け橋|
 | m1test  | 田舎    | [![facebook](img/facebook.png)](https://facebook.com/m1test/) [![twitter](img/twitter.png)](https://twitter.com/m1test) [![github](img/github.png)](https://github.com/mitest)   | IoT…縁ないなぁ |
 | こにし  | 大阪  |  [![github](img/github.png)](https://github.com/akimasakonishi/) | ちょっとだけ触れる！ |
+| katakaku | 太陽系    |  [![twitter](img/twitter.png)](https://twitter.com/konekonopapa) [![github](img/github.png)](https://github.com/katakaku)   | ネコでもできるかな、<br>いいことあるじゃん！ |
