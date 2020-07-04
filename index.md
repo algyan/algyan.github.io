@@ -166,5 +166,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | asoda  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiro.soda/) [![twitter](img/twitter.png)](https://twitter.com/home) [![github](img/github.png)](https://github.com/atsuhirosoda)   | 引きこもって完全リモートワークするためのお道具 |
 | zazi27  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/zazitto27) [![github](img/github.png)](https://github.com/zazi27)   | ダイレクトなユーザー体験を提供できるもの |
 | ynabe009  | 地球    | [![github](img/github.png)](https://github.com/ynabe009)   | なにそれ!?おいしいの？ |
-| 尾塩 健二  | Tokyo   | [![facebook](img/facebook.png)](https://www.facebook.com/profile.php?id=100009136481805&sk=about) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-| Aqua Horizon  |   | [![github](img/github.png)](https://github.com/AquaHorizon)   | 未来への切符 |
+| TakSan  | 大阪    | [![facebook](img/facebook.png)](https://www.facebook.com/TakSan0) [![twitter](img/twitter.png)](https://twitter.com/TakSan0) [![github](img/github.png)](https://github.com/TakSan0/)   | まだまだモヤモヤ |
