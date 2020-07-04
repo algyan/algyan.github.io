@@ -160,3 +160,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ktetsuo  | 静岡    | [![twitter](img/twitter.png)](https://twitter.com/ktetsuo) [![github](img/github.png)](https://github.com/ktetsuo)   | 組み込みエンジニアとWebエンジニアが出会うところ |
 | tak-11  | 地球    | [![github](img/github.png)](https://github.com/tak-11)   | 自然との繋がり |
 | motycom  | 関西    | [![twitter](img/twitter.png)](https://twitter.com/mashimotoy03)| 便利になる<br>新しさ |
+| kj75  | 月    | [![github](img/github.png)](https://github.com/kj75)   | 夢をかなえる |
