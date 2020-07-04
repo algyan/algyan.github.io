@@ -99,4 +99,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Lakefield  | 鎌倉    | [![facebook](img/facebook.png)](https://www.facebook.com/akira.urano.73/) [![github](img/github.png)](https://github.com/lakefield7/)   |Enjoy、<br>IoT！ |
 | 長谷川  | 横浜    | [![facebook](img/facebook.png)](https://facebook.com/yoshiaki.hasegawa.75) | 未知のもの、勉強するもの |
 | KogaSense  | 札幌    | [![facebook](img/facebook.png)](https://facebook.com/takaaki.koga.98/) [![twitter](img/twitter.png)](https://twitter.com/KogaSense) [![github](img/github.png)](https://github.com/algyan)   | 老後の生業 |
-
+| Cyber-U9  | 神奈川    |[![github](img/github.png)](https://github.com/Cyber-U9)   | 夢があるじゃん！ |
