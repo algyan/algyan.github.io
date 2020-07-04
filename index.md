@@ -74,3 +74,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 小暮敦彦（ALGYAN理事長だっ）  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | 総合格闘技と癒し<br>そして、トキメキ！ |
 | Kento  | 福岡のどっか   | [![twitter](img/twitter.png)](https://twitter.com/4LX16iBzdWveOoZ) [![github](img/github.png)](https://github.com/njc50047)   | 趣味
 | takasehideki  | 京都    | [![facebook](img/facebook.png)](https://facebook.com/takasehideki) [![twitter](img/twitter.png)](https://twitter.com/TAKASEhideki) [![github](img/github.png)](https://github.com/takasehideki)   | テクノロジーへの愛！ |
+| ないじゃん  | 宇宙    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | なんにもないじゃん、<br>うまいはなしなんてないじゃん！ |
+
