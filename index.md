@@ -71,4 +71,6 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| Julia  | Tokyo    | [![facebook](img/facebook.png)](https://facebook.com/nakano.hideko.5) [![twitter](img/twitter.png)](https://twitter.com/julia_hn) [![github](img/github.png)](https://github.com/
+Julia-hn)   | 豊かで、楽しい遊び！ |
 
