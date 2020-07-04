@@ -83,7 +83,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | robojp    | 名古屋 | [![facebook](img/facebook.png)](https://facebook.com/robojp/) [![twitter](img/twitter.png)](https://twitter.com/robojp) [![github](img/github.png)](https://github.com/robojp)   | こんなのあるじゃん、<br>とってもいいことあるじゃん！ |
 | sone | 浜松    | [![facebook](img/facebook.png)](https://www.facebook.com/takuro.sone.1) [![twitter](img/twitter.png)](hhttps://twitter.com/s_o_n_e) [![github](img/github.png)](https://github.com/s-o-n-e)   |  |
 | gpsnmea  | 神奈川 | [![facebook](img/facebook.png)](https://facebook.com/gpsnmea/) [![twitter](img/twitter.png)](https://twitter.com/gpsnmea) [![github](img/github.png)](https://github.com/gpsnmea)   | 電子工作大好き、3Dプリンター最高! |
-| sannwa_o  | Aichi    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)] [![github](img/github.png)](https://github.com/sannwao)   | IoTはホビーと仕事(?) |
+| sannwa_o  | Aichi    | [![github](img/github.png)](https://github.com/sannwao)   | IoTはホビーと仕事(?) |
 | 通りすがり  | 岡山    |[![github](img/github.png)](https://github.com/mrkwllstn)   | 不思議の国 |
 | ヒロキ | 熊本    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | モノづくり|
 |matsujirushi|愛知|[![facebook](img/facebook.png)](https://www.facebook.com/takashi.matsuoka.37) [![twitter](img/twitter.png)](https://twitter.com/matsujirushi12) [![github](img/github.png)](https://github.com/matsujirushi)|ものづくり|
@@ -124,6 +124,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ygoto  | niigata    | [![twitter](img/twitter.png)](https://twitter.com/YAckerman4) [![github](img/github.png)](https://github.com/yoshua-ackerman)   | aaa |
 | gitochan88  | 大阪    | [![facebook](img/facebook.png)](https://www.facebook.com/atsushi.itoh.37) [![twitter](img/twitter.png)](https://twitter.com/a_itochan) [![github](img/github.png)](https://github.com/gitochan88)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | BotanicFields | 川崎市 | [![facebook](img/facebook.png)](https://www.facebook.com/botanicfields/) [![twitter](img/twitter.png)](https://twitter.com/botanicfields) [![github](img/github.png)](https://github.com/botanicfields)   | to be one of Makers、<br>To be! |
-| mtikeda  | M's    | [[![twitter](img/twitter.png)](https://twitter.com/mtikeda) [![github](img/github.png)](https://github.com/mtikedagit)   | 未知 |
+| mtikeda  | M's    | [![twitter](img/twitter.png)](https://twitter.com/mtikeda) [![github](img/github.png)](https://github.com/mtikedagit)   | 未知 |
 | やぎ  | 神奈川   |  [![twitter](img/twitter.png)](https://twitter.com/goatpmrf) [![github](img/github.png)](https://github.com/goatpmrf)   | 楽しいやつ |
 | 林　伸夫  | 田舎    | [![facebook](img/facebook.png)](https://www.facebook.com/nobuoh) [![twitter](img/twitter.png)](https://twitter.com/haya_sann) [![github](img/github.png)](https://github.com/algyan)   | あなたにとってのIoTとは<br>世の中を支配したいよ |
+| YOKO  | 横浜＿大府    | [![facebook](img/facebook.png)](https://https://www.facebook.com/yoko.fukunaga.54) [![github](img/github.png)](https://https://github.com/Hiromumama)   | 人の効率的管理手法、<br>将来の仕事 |
