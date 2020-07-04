@@ -112,7 +112,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | tamotsu777  | 地球    | [![twitter](img/twitter.png)](https://twitter.com/tamotsu777) [![github](img/github.png)](https://github.com/tamotsu777)   | 未来 |
 | 5002202  | 長野    |  | 役に立たない |
 | Susumu  | 滋賀    | [![github](img/github.png)](https://github.com/SusumuOoe)   | AIとの両輪技術! |
-| Shoko  | 福岡    | [![facebook](img/facebook.png)](https://www.facebook.com/shoko.ishigaki.3) [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/shoko93/)   | 無限に広がる可能性 |
+| Shoko  | 福岡    | [![facebook](img/facebook.png)](https://www.facebook.com/shoko.ishigaki.3) [![twitter](img/twitter.png)](https://twitter.com/shoko_i93) [![github](img/github.png)](https://github.com/shoko93/)   | 無限に広がる可能性 |
 | @tatsu1225  | くまもと    | [![facebook](img/facebook.png)](https://www.facebook.com/oikawa.tatsuhiro) [![github](img/github.png)](https://github.com/tatsu1225)   | IoTあるじゃん！<br>組込み |
 | hiroyuki_0252  | 鎌倉    | [![facebook](img/facebook.png)](https://www.facebook.com/hiroyuki.matsubara.58) [![github](img/github.png)](https://github.com/hrmatsubara)   | 最高の暇潰し！ |
 | motoms  | 東京    | [![facebook](img/facebook.png)](https://https://www.facebook.com/profile.php?id=100000160636541) [![github](img/github.png)](https://github.com/makermotomi)   | 興味のままに楽しむ！、<br>動いたら面白い！ |
