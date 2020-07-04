@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| にしだ ゆうき  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/rabbits1987) [![twitter](img/twitter.png)](https://twitter.com/rabbits1987) [![github](img/github.png)](https://github.com/Nyuuki0224)   | 情熱を注ぐに値する面白い概念！ |
 
