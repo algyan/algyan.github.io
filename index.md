@@ -70,5 +70,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
-| あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| moruxa | 栃木    | [![facebook](img/facebook.png)](https://facebook.com/nanda.moruxa/) [![twitter](img/twitter.png)](https://twitter.com/moruxa) [![github](img/github.png)](https://github.com/moruxa)   | 来世に期待 |
 
