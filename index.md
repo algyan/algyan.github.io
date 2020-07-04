@@ -137,3 +137,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | mkt  | shibuya    | [![facebook](img/facebook.png)](https://ja-jp.facebook.com/CompuTrainer/) [![twitter](img/twitter.png)](https://twitter.com/computrainerjpn) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | nono  | 四国    | [![github](img/github.png)](https://github.com/nonosan85)   | うーん<br>難しい！ |
 | myasu  | Kurashiki    | [![facebook](img/facebook.png)](https://www.facebook.com/yasuhiro.miyake.5076) [![twitter](img/twitter.png)](https://twitter.com/etcinitd) [![github](img/github.png)](https://github.com/trihome)   | 技術のサンドボックス |
+| lirevo  | 新潟    | [![facebook](img/facebook.png)](https://www.facebook.com/lirevo.sugi) [![twitter](img/twitter.png)](https://twitter.com/a10teki) | こんなのあるじゃん、<br>いいことあるじゃん！ |
