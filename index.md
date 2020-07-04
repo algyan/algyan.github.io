@@ -126,3 +126,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | BotanicFields | 川崎市 | [![facebook](img/facebook.png)](https://www.facebook.com/botanicfields/) [![twitter](img/twitter.png)](https://twitter.com/botanicfields) [![github](img/github.png)](https://github.com/botanicfields)   | to be one of Makers、<br>To be! |
 | mtikeda  | M's    | [[![twitter](img/twitter.png)](https://twitter.com/mtikeda) [![github](img/github.png)](https://github.com/mtikedagit)   | 未知 |
 | やぎ  | 神奈川   |  [![twitter](img/twitter.png)](https://twitter.com/goatpmrf) [![github](img/github.png)](https://github.com/goatpmrf)   | 楽しいやつ |
+| 林　伸夫  | 田舎    | [![facebook](img/facebook.png)](https://www.facebook.com/nobuoh) [![twitter](img/twitter.png)](https://twitter.com/haya_sann) [![github](img/github.png)](https://github.com/algyan)   | あなたにとってのIoTとは<br>世の中を支配したいよ |
