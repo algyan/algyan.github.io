@@ -153,3 +153,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 夏目久作  | 茨城県    | [![twitter][![github](img/github.png)](https://github.com/qsaku)   | 現在勉強中です！ |
 | ヒロ  | 中国地方    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)](https://twitter.com/hironetoge5228) [![github](img/github.png)](https://github.com/hiro-hiro)   | もっといじっていきたいもの |
 | ゆう  | 千葉    | [![facebook](img/facebook.png)](https://facebook.com/yuu.nakamura.319/) [![twitter](img/twitter.png)](https://twitter.com/yu_naka0607) [![github](img/github.png)](https://github.com/yuu-nakamura)   | 可能性 |
+| robin29man  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/soichiro.inoue.92/) [![twitter](img/twitter.png)](https://twitter.com/schr_i) [![github](img/github.png)](https://github.com/robin29man)   | 自分の頭の中を形にするところ |
