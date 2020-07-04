@@ -104,4 +104,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | keni-n  |  東京   | [![facebook](img/facebook.png)](https://facebook.com/KenichiNagai) [![github](img/github.png)](https://github.com/keni-n)   | 自分で作るもの |
 | 安藤沙樹  | 仙台    | [![twitter](img/twitter.png)](https://twitter.com/PolTabasko) [![github](img/github.png)](https://github.com/and1720015)   | ロマンと可能性無限大 |
 | 5002202  | 長野    |  | 役に立たない |
-| Susumu  | 滋賀    | [![github](img/github.png)](https://github.com/SusumuOoe)   | AIとの両輪技術! |
+| Susumu  | 滋賀    | [![github](img/github.png)](https://github.com/SusumuOoe)   | AIとの両輪技術! 
+| Shoko  | 福岡    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/shoko93/)   | 無限に広がる可能性 |
