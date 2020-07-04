@@ -128,3 +128,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | やぎ  | 神奈川   |  [![twitter](img/twitter.png)](https://twitter.com/goatpmrf) [![github](img/github.png)](https://github.com/goatpmrf)   | 楽しいやつ |
 | 林　伸夫  | 田舎    | [![facebook](img/facebook.png)](https://www.facebook.com/nobuoh) [![twitter](img/twitter.png)](https://twitter.com/haya_sann) [![github](img/github.png)](https://github.com/algyan)   | あなたにとってのIoTとは<br>世の中を支配したいよ |
 | YOKO  | 横浜＿大府    | [![facebook](img/facebook.png)](https://https://www.facebook.com/yoko.fukunaga.54) [![github](img/github.png)](https://https://github.com/Hiromumama)   | 人の効率的管理手法、<br>将来の仕事 |
+| なかまえ  | 川崎    | [![facebook](img/facebook.png)](https://facebook.com/ryo.nakamae.3/) [![twitter](img/twitter.png)](https://twitter.com/ryo_naka) [![github](img/github.png)](https://github.com/RyoNakamae)   | 業務に見せかけられる趣味 |
