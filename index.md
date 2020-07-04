@@ -133,3 +133,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | kein  | 日本    | [![twitter](img/twitter.png)](https://twitter.com/Kein74007910) [![github](img/github.png)](https://github.com/keinR35)   |IoTといえば、<br>ビッグデータ |
 | Julia  | Tokyo    | [![facebook](img/facebook.png)](https://facebook.com/nakano.hideko.5) [![twitter](img/twitter.png)](https://twitter.com/julia_hn) [![github](img/github.png)](https://github.com/Julia-hn)   | 豊かで、楽しい遊び！ |
 | atoc  | 大阪    | ひみつ　というかほとんど使っていない   | ネットも動かせる組み込み |
+| Tsuka  | 奈良    | [![facebook](img/facebook.png)](https://facebook.com/groups/katsutakat/) [![twitter](img/twitter.png)](https://twitter.com/AkiraSenpai_KT) [![github](img/github.png)](https://github.com/TsukaGit)   | 魔宮<br>そして迷走 |
