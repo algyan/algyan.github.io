@@ -97,3 +97,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | katakaku | 太陽系    |  [![twitter](img/twitter.png)](https://twitter.com/konekonopapa) [![github](img/github.png)](https://github.com/katakaku)   | ネコでもできるかな、<br>いいことあるじゃん！ |
 | 桜井　厚 ![image](https://avatars0.githubusercontent.com/u/64763?s=40) | 名古屋市    | [![github](img/github.png)](https://github.com/mocapapa/)   | 何か作りたい |
 | Lakefield  | 鎌倉    | [![facebook](img/facebook.png)](https://www.facebook.com/akira.urano.73/) [![github](img/github.png)](https://github.com/lakefield7/)   |Enjoy、<br>IoT！ |
+| 長谷川  | 横浜    | [![facebook](img/facebook.png)](https://facebook.com/yoshiaki.hasegawa.75) | 未知のもの、勉強するもの |
