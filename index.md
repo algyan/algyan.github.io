@@ -148,3 +148,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 金子  | 北海道    | [![github](img/github.png)](https://github.com/ToshiakiKaneko)   | 監視されてる。 |
 | ゆうこりん  | こりん星    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/algyan)   | ばくはつしちゃったじゃん |
 | tonegawa | 地球    |  [![twitter](img/twitter.png)](https://twitter.com/to_ne_gawa) [![github](img/github.png)](https://github.com/tnriver)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| tyokochin  | ｔokyo    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/tyokochin)   | 便利そう |
