@@ -144,3 +144,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | いぎ  | 大阪    | [![facebook](img/facebook.png)](https://facebook.com/yasu.igi/) [![twitter](img/twitter.png)](https://twitter.com/igiy) [![github](img/github.png)](https://github.com/igiy)   | いろんなことができる夢の入り口 |
 | usertumi  | kanagawa    | [![github](img/github.png)](https://github.com/usertumi)   | 手軽にできる<br>モノづくり |
 | hide        | 神奈川  | [![facebook](img/facebook.png)](https://facebook.com/sample/) [![twitter](img/twitter.png)](https://twitter.com/sample) [![github](img/github.png)](https://github.com/)   | 総合格闘技<br>そしてトキメキ |
+| いのうえ　みのる  | とうきょうと    | [![facebook](img/facebook.png)](https://facebook.com/minoru.inoue.90) [![twitter](img/twitter.png)](https://twitter.com/henjin01_Fab) [![github](img/github.png)](https://github.com/henjin0)   | エンジニア会の<br>総合格闘技! |
