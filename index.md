@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| 安藤沙樹  | 仙台    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)](https://twitter.com/PolTabasko) [![github](img/github.png)](https://github.com/and1720015)   | ロマンと可能性無限大 |
 
