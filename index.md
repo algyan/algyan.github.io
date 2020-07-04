@@ -108,3 +108,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | @tatsu1225  | くまもと    | [![facebook](img/facebook.png)](https://www.facebook.com/oikawa.tatsuhiro) [![twitter](img/twitter.png)](https://twitter.com/home) [![github](img/github.png)](https://github.com/tatsu1225)   | IoTあるじゃん！<br>組込み |
 | hiroyuki_0252  | 鎌倉    | [![facebook](img/facebook.png)](https://www.facebook.com/hiroyuki.matsubara.58) [![github](img/github.png)](https://github.com/hrmatsubara)   | 最高の暇潰し！ |
 | motoms  | 東京    | [![facebook](img/facebook.png)](https://https://www.facebook.com/profile.php?id=100000160636541) [![github](img/github.png)](https://github.com/makermotomi)   | 興味のままに楽しむ！、<br>動いたら面白い！ |
+| ながひさ  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/kenzo.nagahisa/) [![twitter](img/twitter.png)](https://twitter.com/kenzonag) [![github](img/github.png)](https://github.com/nagahisa)   | 良いかげんで、<br>ぼちぼちやろうねー |
