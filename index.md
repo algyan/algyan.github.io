@@ -107,6 +107,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | utuka8086 | 関東    | [![github](img/github.png)](https://github.com/utuka8080)   | IOT<br>IOT! |
 | keni-n  |  東京   | [![facebook](img/facebook.png)](https://facebook.com/KenichiNagai) [![github](img/github.png)](https://github.com/keni-n)   | 自分で作るもの |
 | 安藤沙樹  | 仙台    | [![twitter](img/twitter.png)](https://twitter.com/PolTabasko) [![github](img/github.png)](https://github.com/and1720015)   | ロマンと可能性無限大 |
+| tamotsu777  | 地球    | [![twitter](img/twitter.png)](https://twitter.com/tamotsu777) [![github](img/github.png)](https://github.com/tamotsu777)   | 未来 |
 | 5002202  | 長野    |  | 役に立たない |
 | Susumu  | 滋賀    | [![github](img/github.png)](https://github.com/SusumuOoe)   | AIとの両輪技術! |
 | Shoko  | 福岡    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/shoko93/)   | 無限に広がる可能性 |
