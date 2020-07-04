@@ -175,3 +175,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | mkby  | TKO   |   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | 薄井信将  | 東京　| [![facebook](img/facebook.png)](https://www.facebook.com/nobumasa.usui/) [![twitter](img/twitter.png)](https://twitter.com/insn_nqou) [![github](img/github.png)](https://github.com/insn1013)   | パラダイム・シフトのきっかけ、<br>いいことあるじゃん！ |
 | sereka  | 神奈川県    | [![twitter](img/twitter.png)](https://twitter.com/ov_vo) [![github](img/github.png)](https://github.com/tereka)   | あるじゃん、<br>いいことあるじゃん！ |
+| tokky  | 地球    |   | ここになにかが表示される |
