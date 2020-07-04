@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| robin29man  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/soichiro.inoue.92/) [![twitter](img/twitter.png)](https://twitter.com/schr_i) [![github](img/github.png)](https://github.com/robin29man)   | 自分の頭の中を形にするところ |
 
