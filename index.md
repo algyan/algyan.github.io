@@ -131,3 +131,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | なかまえ  | 川崎    | [![facebook](img/facebook.png)](https://facebook.com/ryo.nakamae.3/) [![twitter](img/twitter.png)](https://twitter.com/ryo_naka) [![github](img/github.png)](https://github.com/RyoNakamae)   | 業務に見せかけられる趣味 |
 | dimanche  | Kyoto  | [![twitter](img/twitter.png)](https://twitter.com/m301892) [![github](img/github.png)](https://github.com/alamozza)   | I love it! |
 | kein  | 日本    | [![twitter](img/twitter.png)](https://twitter.com/Kein74007910) [![github](img/github.png)](https://github.com/keinR35)   |IoTといえば、<br>ビッグデータ |
+| Julia  | Tokyo    | [![facebook](img/facebook.png)](https://facebook.com/nakano.hideko.5) [![twitter](img/twitter.png)](https://twitter.com/julia_hn) [![github](img/github.png)](https://github.com/Julia-hn)   | 豊かで、楽しい遊び！ |
