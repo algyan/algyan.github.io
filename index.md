@@ -71,4 +71,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-
+| ながひさ  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/kenzo.nagahisa/) [![twitter](img/twitter.png)](https://twitter.com/kenzonag) [![github](img/github.png)](https://github.com/nagahisa)   | 良いかげんで、<br>ぼちぼちやろうねー |
