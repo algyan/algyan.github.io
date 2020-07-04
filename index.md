@@ -194,3 +194,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | yukkuriDo  | 大阪   | [![github](img/github.png)](https://github.com/yukkuriDo)   | 面白い最新技術 |
 | jing  | 広島    |[![github](img/github.png)](https://github.com/ztujing) | いいじゃん！ |
 | いずみ♡  | 京都    | [![facebook](img/facebook.png)](https://www.facebook.com/izumitomonori) [![twitter](img/twitter.png)](https://twitter.com/izumitomonori) [![github](img/github.png)](https://github.com/izumitomonori)   | わかんなぃ… |
+| masahiko03      | 神奈川 | [![github](img/github.png)](https://github.com/masahiko03)   | 無限の可能性を感じます |
