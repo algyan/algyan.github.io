@@ -139,3 +139,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | myasu  | Kurashiki    | [![facebook](img/facebook.png)](https://www.facebook.com/yasuhiro.miyake.5076) [![twitter](img/twitter.png)](https://twitter.com/etcinitd) [![github](img/github.png)](https://github.com/trihome)   | 技術のサンドボックス |
 | lirevo  | 新潟    | [![facebook](img/facebook.png)](https://www.facebook.com/lirevo.sugi) [![twitter](img/twitter.png)](https://twitter.com/a10teki) | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | test  | Moon    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | 楽をして早く帰るためのもの |
+| excl-zoo  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/exclzoo) [![github](img/github.png)](https://github.com/exclzoo)   | 何が新しいのかわからないのがいい！ |
