@@ -86,3 +86,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 通りすがり  | 岡山    |[![github](img/github.png)](https://github.com/mrkwllstn)   | 不思議の国 |
 | ヒロキ | 熊本    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | モノづくり|
 |matsujirushi|愛知|[![facebook](img/facebook.png)](https://www.facebook.com/takashi.matsuoka.37) [![twitter](img/twitter.png)](https://twitter.com/matsujirushi12) [![github](img/github.png)](https://github.com/matsujirushi)|ものづくり|
+| masahiko03      | 神奈川 | [![github](img/github.png)](https://github.com/masahiko03)   | 無限の可能性を感じます |
