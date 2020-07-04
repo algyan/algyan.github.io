@@ -83,3 +83,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | sone | 浜松    | [![facebook](img/facebook.png)](https://www.facebook.com/takuro.sone.1) [![twitter](img/twitter.png)](hhttps://twitter.com/s_o_n_e) [![github](img/github.png)](https://github.com/s-o-n-e)   |  |
 | gpsnmea  | 神奈川 | [![facebook](img/facebook.png)](https://facebook.com/gpsnmea/) [![twitter](img/twitter.png)](https://twitter.com/gpsnmea) [![github](img/github.png)](https://github.com/gpsnmea)   | 電子工作大好き、3Dプリンター最高! |
 | sannwa_o  | Aichi    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)] [![github](img/github.png)](https://github.com/sannwao)   | IoTはホビーと仕事(?) |
+| 通りすがり  | 岡山    |[![github](img/github.png)](https://github.com/mrkwllstn)   | 不思議の国 |
