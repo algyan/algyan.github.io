@@ -163,3 +163,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | kj75  | 月    | [![github](img/github.png)](https://github.com/kj75)   | 夢をかなえる |
 | tattcho  | おうち    |  [![twitter](img/twitter.png)](https://twitter.com/62mutu3) [![github](img/github.png)](https://github.com/tattcho)   | 目標 |
 | nakkyi | japan    | [![facebook](img/facebook.png)](https://facebook.com/中村恭一) [![twitter](img/twitter.png)](https://twitter.com/nakkyi) [![github](img/github.png)](https://github.com/nakkyi)   | 自動運転技術 <br>|
+| asoda  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiro.soda/) [![twitter](img/twitter.png)](https://twitter.com/home) [![github](img/github.png)](https://github.com/atsuhirosoda)   | 引きこもって完全リモートワークするためのお道具 |
