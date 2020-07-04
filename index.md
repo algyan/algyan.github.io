@@ -112,3 +112,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 弘T  | 関西    | [![facebook](img/facebook.png)](https://facebook.com/遠塚弘) [![github](img/github.png)](https://github.com/HiroshiTotsuka)   | 勉強してます<br>苦戦中|
 | isoy  | 港区赤坂    | [![github](img/github.png)](https://github.com/300350)   | 脳みそサウナ<br>気持ちいい！ |
 | Atomu Hidaka  | 東京・府中市  | [![facebook](img/facebook.png)](https://www.facebook.com/ahidaka) [![twitter](img/twitter.png)](https://twitter.com/AtomuHidaka) [![github](img/github.png)](https://github.com/ahidaka)   | GitHub 最高！違うか。IoT最高！ |
+| fu  | 東京    | [![github](img/github.png)](https://github.com/fu-s28)   | いろいろ<br>おもしろい<br>つながり |
