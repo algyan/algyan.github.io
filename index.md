@@ -185,3 +185,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | pokibon  | 相模原  | [![facebook](img/facebook.png)](https://facebook.com/kimio.ohe) [![twitter](img/twitter.png)](https://twitter.com/pokibon) [![github](img/github.png)](https://github.com/pokibon)   | 出会い、<br>と愛！ |
 | Koki mu | 神奈川    | [![twitter](img/twitter.png)](https://twitter.com/Kokimu2Kokimu) [![github](img/github.png)](https://github.com/Kokimu2Kokimu)   | ！ |
 | kinoko  | 地球    | なし   | 興味のあるもの |
+| 前野　秀史  | 東京    | [![facebook](img/facebook.png)](https://facebook.com/hideshi.maeno/) [![twitter](img/twitter.png)](https://twitter.com/skycatneo) [![github](img/github.png)](https://github.com/maenoh)   | アイデアの<br>提案場所 |
