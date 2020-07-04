@@ -162,3 +162,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | motycom  | 関西    | [![twitter](img/twitter.png)](https://twitter.com/mashimotoy03)| 便利になる<br>新しさ |
 | kj75  | 月    | [![github](img/github.png)](https://github.com/kj75)   | 夢をかなえる |
 | tattcho  | おうち    |  [![twitter](img/twitter.png)](https://twitter.com/62mutu3) [![github](img/github.png)](https://github.com/tattcho)   | 目標 |
+| nakkyi | japan    | [![facebook](img/facebook.png)](https://facebook.com/中村恭一) [![twitter](img/twitter.png)](https://twitter.com/nakkyi) [![github](img/github.png)](https://github.com/nakkyi)   | 自動運転技術 <br>|
