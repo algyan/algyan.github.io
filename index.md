@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| Tsuka  | 奈良    | [![facebook](img/facebook.png)](https://facebook.com/groups/katsutakat/) [![twitter](img/twitter.png)](https://twitter.com/AkiraSenpai_KT) [![github](img/github.png)](https://github.com/TsukaGit)   | 魔宮<br>そして迷走 |
 
