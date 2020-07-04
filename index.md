@@ -110,3 +110,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | motoms  | 東京    | [![facebook](img/facebook.png)](https://https://www.facebook.com/profile.php?id=100000160636541) [![github](img/github.png)](https://github.com/makermotomi)   | 興味のままに楽しむ！、<br>動いたら面白い！ |
 | ながひさ  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/kenzo.nagahisa/) [![twitter](img/twitter.png)](https://twitter.com/kenzonag) [![github](img/github.png)](https://github.com/nagahisa)   | 良いかげんで、<br>ぼちぼちやろうねー |
 | 弘T  | 関西    | [![facebook](img/facebook.png)](https://facebook.com/遠塚弘) [![github](img/github.png)](https://github.com/HiroshiTotsuka)   | 勉強してます<br>苦戦中|
+| isoy  | 港区赤坂    | [![github](img/github.png)](https://github.com/300350)   | 脳みそサウナ<br>気持ちいい！ |
