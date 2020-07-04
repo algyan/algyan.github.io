@@ -152,3 +152,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Watabou  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/wataru.kato.186) [![twitter](img/twitter.png)](https://twitter.com/zae38) [![github](img/github.png)](https://github.com/watarukato)   | 永遠のLチカ<br>そろそろLチカの次へ  |
 | 夏目久作  | 茨城県    | [![twitter][![github](img/github.png)](https://github.com/qsaku)   | 現在勉強中です！ |
 | ヒロ  | 中国地方    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)](https://twitter.com/hironetoge5228) [![github](img/github.png)](https://github.com/hiro-hiro)   | もっといじっていきたいもの |
+| ゆう  | 千葉    | [![facebook](img/facebook.png)](https://facebook.com/yuu.nakamura.319/) [![twitter](img/twitter.png)](https://twitter.com/yu_naka0607) [![github](img/github.png)](https://github.com/yuu-nakamura)   | 可能性 |
