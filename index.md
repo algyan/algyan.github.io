@@ -80,3 +80,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | みほ | かながわ    | [![facebook](img/facebook.png)](https://www.facebook.com/miho.nagahama.98) [![twitter](img/twitter.png)](https://twitter.com/Miho_x_x_N) [![github](img/github.png)](https://github.com/MihoNagahama)   | できてんのかな<br>どきどき |
 | おおえ      | あるじゃん | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.ohe/) [![github](img/github.png)](https://github.com/y-ohe)   | いろいろなガジェットを<br>組み合わせ自由にネットに繋いで<br>いいことあるじゃん！ |
 | 吉田健一  | 香川    | [![facebook](img/facebook.png)](https://www.facebook.com/setouchimusic1167/) [![twitter](img/twitter.png)](https://twitter.com/home?lang=ja) [![github](img/github.png)](https://github.com/scbc1167)   |ちょっと先の未来を拓くテクノロジー|
+| robojp    | 名古屋 | [![facebook](img/facebook.png)](https://facebook.com/robojp/) [![twitter](img/twitter.png)](https://twitter.com/robojp) [![github](img/github.png)](https://github.com/robojp)   | こんなのあるじゃん、<br>とってもいいことあるじゃん！ |
