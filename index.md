@@ -170,3 +170,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Aqua Horizon  |   | [![github](img/github.png)](https://github.com/AquaHorizon)   | 未来への切符 |
 | artinring  | Nagoya    |  [![github](img/github.png)](https://github.com/artinring)   | やること沢山、<br>時間が欲しいよ~。 |
 | shu0812  | 西東京    | [![facebook](img/facebook.png)](https://facebook.com/sota221017) [![twitter](img/twitter.png)](https://twitter.com/shu__0812) [![github](img/github.png)](https://github.com/shusuke0812)   | ワクワクするものづくり  |
+| linyixian  | 地球    | [![facebook](img/facebook.png)](https://www.facebook.com/yoshinori.hayashi.33) [![twitter](img/twitter.png)](https://twitter.com/linyixian) [![github](img/github.png)](https://github.com/linyixian)   | IoTHub<br>いいことあるじゃん！ |
