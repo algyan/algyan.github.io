@@ -150,8 +150,9 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | tonegawa | 地球    |  [![twitter](img/twitter.png)](https://twitter.com/to_ne_gawa) [![github](img/github.png)](https://github.com/tnriver)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | tyokochin  | ｔokyo    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/tyokochin)   | 便利そう |
 | Watabou  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/wataru.kato.186) [![twitter](img/twitter.png)](https://twitter.com/zae38) [![github](img/github.png)](https://github.com/watarukato)   | 永遠のLチカ<br>そろそろLチカの次へ  |
-| 夏目久作  | 茨城県    | [![twitter][![github](img/github.png)](https://github.com/qsaku)   | 現在勉強中です！ |
+| 夏目久作  | 茨城県    | [![github](img/github.png)](https://github.com/qsaku)   | 現在勉強中です！ |
 | ヒロ  | 中国地方    | [![facebook](img/facebook.png)] [![twitter](img/twitter.png)](https://twitter.com/hironetoge5228) [![github](img/github.png)](https://github.com/hiro-hiro)   | もっといじっていきたいもの |
 | ゆう  | 千葉    | [![facebook](img/facebook.png)](https://facebook.com/yuu.nakamura.319/) [![twitter](img/twitter.png)](https://twitter.com/yu_naka0607) [![github](img/github.png)](https://github.com/yuu-nakamura)   | 可能性 |
 | robin29man  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/soichiro.inoue.92/) [![twitter](img/twitter.png)](https://twitter.com/schr_i) [![github](img/github.png)](https://github.com/robin29man)   | 自分の頭の中を形にするところ |
 | A.T   | 暮れの町    |  |暮れの町の夜明け |
+| AyFy785  | 地球    |  [![github](img/github.png)](https://github.com/AyFy785)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
