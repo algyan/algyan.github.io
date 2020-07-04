@@ -195,3 +195,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | jing  | 広島    |[![github](img/github.png)](https://github.com/ztujing) | いいじゃん！ |
 | いずみ♡  | 京都    | [![facebook](img/facebook.png)](https://www.facebook.com/izumitomonori) [![twitter](img/twitter.png)](https://twitter.com/izumitomonori) [![github](img/github.png)](https://github.com/izumitomonori)   | わかんなぃ… |
 | masahiko03      | 神奈川 | [![github](img/github.png)](https://github.com/masahiko03)   | 無限の可能性を感じます |
+| Natsumi HORI | 大阪 | [![facebook](img/facebook.png)](https://facebook.com/HN0722) [![twitter](img/twitter.png)](https://twitter.com/_handle_name) [![github](img/github.png)](https://github.com/horinat)   | プログラミング、<br>できるようになりたい！ |
