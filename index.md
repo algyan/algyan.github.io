@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| 薄井信将  | 東京　| [![facebook](img/facebook.png)](https://www.facebook.com/nobumasa.usui/) [![twitter](img/twitter.png)](https://twitter.com/insn_nqou) [![github](img/github.png)](https://github.com/insn1013)   | パラダイム・シフトのきっかけ、<br>いいことあるじゃん！ |
 
