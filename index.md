@@ -81,7 +81,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | おおえ      | あるじゃん | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.ohe/) [![github](img/github.png)](https://github.com/y-ohe)   | いろいろなガジェットを<br>組み合わせ自由にネットに繋いで<br>いいことあるじゃん！ |
 | 吉田健一  | 香川    | [![facebook](img/facebook.png)](https://www.facebook.com/setouchimusic1167/) [![twitter](img/twitter.png)](https://twitter.com/home?lang=ja) [![github](img/github.png)](https://github.com/scbc1167)   |ちょっと先の未来を拓くテクノロジー|
 | みずりゅ  | 神奈川    | [![twitter](img/twitter.png)](https://twitter.com/MzRyuKa) [![github](img/github.png)](https://github.com/rykawamu)   |Nerves楽しいですよ|
-| TakSan  | 大阪    | [![facebook](img/facebook.png)](https://www.facebook.com/TakSan0/)   | まだモヤモヤ |
+| TakSan  | 大阪    | [![facebook](img/facebook.png)](https://www.facebook.com/TakSan0) [![twitter](img/twitter.png)](https://twitter.com/TakSan0) [![github](img/github.png)](https://github.com/TakSan0/)   | まだまだモヤモヤ |
 | robojp    | 名古屋 | [![facebook](img/facebook.png)](https://facebook.com/robojp/) [![twitter](img/twitter.png)](https://twitter.com/robojp) [![github](img/github.png)](https://github.com/robojp)   | こんなのあるじゃん、<br>とってもいいことあるじゃん！ |
 | sone | 浜松    | [![facebook](img/facebook.png)](https://www.facebook.com/takuro.sone.1) [![twitter](img/twitter.png)](hhttps://twitter.com/s_o_n_e) [![github](img/github.png)](https://github.com/s-o-n-e)   |  |
 | gpsnmea  | 神奈川 | [![facebook](img/facebook.png)](https://facebook.com/gpsnmea/) [![twitter](img/twitter.png)](https://twitter.com/gpsnmea) [![github](img/github.png)](https://github.com/gpsnmea)   | 電子工作大好き、3Dプリンター最高! |
