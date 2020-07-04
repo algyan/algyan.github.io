@@ -75,4 +75,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Kento  | 福岡のどっか   | [![twitter](img/twitter.png)](https://twitter.com/4LX16iBzdWveOoZ) [![github](img/github.png)](https://github.com/njc50047)   | 趣味
 | takasehideki  | 京都    | [![facebook](img/facebook.png)](https://facebook.com/takasehideki) [![twitter](img/twitter.png)](https://twitter.com/TAKASEhideki) [![github](img/github.png)](https://github.com/takasehideki)   | テクノロジーへの愛！ |
 | ないじゃん  | 宇宙    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | なんにもないじゃん、<br>うまいはなしなんてないじゃん！ |
-
+| sahorange      | Tokyo    | SNS | セミナー参加中 |
