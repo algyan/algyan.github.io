@@ -165,3 +165,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | nakkyi | japan    | [![facebook](img/facebook.png)](https://facebook.com/中村恭一) [![twitter](img/twitter.png)](https://twitter.com/nakkyi) [![github](img/github.png)](https://github.com/nakkyi)   | 自動運転技術 <br>|
 | asoda  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiro.soda/) [![twitter](img/twitter.png)](https://twitter.com/home) [![github](img/github.png)](https://github.com/atsuhirosoda)   | 引きこもって完全リモートワークするためのお道具 |
 | zazi27  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/zazitto27) [![github](img/github.png)](https://github.com/zazi27)   | ダイレクトなユーザー体験を提供できるもの |
+| ynabe009  | 地球    | [![github](img/github.png)](https://github.com/ynabe009)   | なにそれ!?おいしいの？ |
