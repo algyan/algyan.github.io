@@ -70,5 +70,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
-| zazi27  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/zazi27) [![github](img/github.png)](https://github.com/zazi27)   | ダイレクトなユーザー体験を提供できるもの |
+| zazi27  | 東京    | [![twitter](img/twitter.png)](https://twitter.com/zazitto27) [![github](img/github.png)](https://github.com/zazi27)   | ダイレクトなユーザー体験を提供できるもの |
 
