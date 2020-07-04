@@ -72,10 +72,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | 小暮敦彦（ALGYAN理事長だっ）  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | 総合格闘技と癒し<br>そして、トキメキ！ |
-| Kento  | 福岡のどっか   | [![twitter](img/twitter.png)](https://twitter.com/4LX16iBzdWveOoZ) [![github](img/github.png)](https://github.com/njc50047)   | 趣味
-| takasehideki  | 京都    | [![facebook](img/facebook.png)](https://facebook.com/takasehideki) [![twitter](img/twitter.png)](https://twitter.com/TAKASEhideki) [![github](img/github.png)](https://github.com/takasehideki)   | テクノロジーへの愛！ |
-| ないじゃん  | 宇宙    | [![facebook](img/facebook.png)](https://facebook.com/) [![twitter](img/twitter.png)](https://twitter.com/) [![github](img/github.png)](https://github.com/)   | なんにもないじゃん、<br>うまいはなしなんてないじゃん！ |
-| sahorange      | Tokyo    | SNS | セミナー参加中 |
-| YukoHara  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/yuko.hara.58760/) [![twitter](img/twitter.png)](https://twitter.com/mameko0211) [![github](img/github.png)](https://github.com/YukoHara555/hello-world)   | テクノロジーの変化に頑張ってついていきます |
-| みほ | かながわ    | [![facebook](img/facebook.png)](https://www.facebook.com/miho.nagahama.98) [![twitter](img/twitter.png)](https://twitter.com/Miho_x_x_N) [![github](img/github.png)](https://github.com/MihoNagahama)   | できてんのかな<br>どきどき |
-| おおえ      | あるじゃん | [![facebook](img/facebook.png)](https://www.facebook.com/yutaka.ohe/) [![github](img/github.png)](https://github.com/y-ohe)   | いろいろなガジェットを<br>組み合わせ自由にネットに繋いで<br>いいことあるじゃん！ |
+| sone | 浜松    | [![facebook](img/facebook.png)](https://www.facebook.com/takuro.sone.1) [![twitter](img/twitter.png)](hhttps://twitter.com/s_o_n_e) [![github](img/github.png)](https://github.com/s-o-n-e)   |  |
