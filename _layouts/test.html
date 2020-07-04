@@ -79,7 +79,7 @@ function event_list_init(data) {
     dateStr = dateStr.replace(/-/gi, '/');
     event_date = Date.parse(event_date);
     if (event_date > new Date()) {
-      $('#event_list').append('<tr><td>' + dateStr + '</td><td><a href="' + event.event_url + '">' + event.title + '</a></td></tr>');
+      $('#event_list').append('<tr><td>' + dateStr + '</td><td><a href="' + event.event_url + '" style="word-break:normal;" target="_blank">' + event.title + '</a></td></tr>');
     }
   });
 }
