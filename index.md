@@ -71,4 +71,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
-
+| 鄭　喆敏（テイ　アキトシ）  | 信州    | [![facebook](img/facebook.png)](https://facebook.com/akitoshi.tei) [![twitter](img/twitter.png)](https://twitter.com/akitoshi_tei) [![github](img/github.png)](https://github.com/AkitoshiTei)   | 信州南部を拠点に活動しています。<br>IoTは生活を楽しくするためのツールだと思います。 |
