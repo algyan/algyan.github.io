@@ -210,3 +210,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | yohata    | JP  | ひみつ！　　| べんりなもの！！ |
 | kabekin  | 広島    |  [![github](img/github.png)](https://github.com/kabekin)   | 楽しいマイコン |
 | Ryosukelly  | 埼玉    | [![facebook](img/facebook.png)](https://www.facebook.com/ryosukelly.slater) [![github](img/github.png)](https://github.com/ryosuke-imai)   | AIとIOT、<br>でなにか楽しいことしたい |
+| M.Yano  | 東京    | [![github](img/github.png)](https://github.com/Mi-yano)   | 今どきのドラえもんかと<br>なんでもできるようになりたい！ |
