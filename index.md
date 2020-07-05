@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: default
 title: IoT ALGYAN 公式Webサイト
 description: IoTあるじゃん
 ---
