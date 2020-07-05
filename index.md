@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: top
 title: IoT ALGYAN 公式Webサイト
 description: IoTあるじゃん
 ---
@@ -26,6 +26,16 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 （2019年11月30日(土) 開催 ＠ [学校法人 岩崎学園 情報科学専門学校](http://isc.iwasaki.ac.jp/index.html)）
 
 ## イベント情報
+
+<table>
+  <thead>
+    <tr>
+      <th>日付</th>
+      <th>イベントタイトル</th>
+    </tr>
+  </thead>
+  <tbody id="event_list"></tbody>
+</table>
 
 [イベントページはこちら https://algyan.connpass.com/
 ![connpass](/img/connpass.png)
