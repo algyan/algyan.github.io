@@ -211,4 +211,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | kabekin  | 広島    |  [![github](img/github.png)](https://github.com/kabekin)   | 楽しいマイコン |
 | Ryosukelly  | 埼玉    | [![facebook](img/facebook.png)](https://www.facebook.com/ryosukelly.slater) [![github](img/github.png)](https://github.com/ryosuke-imai)   | AIとIOT、<br>でなにか楽しいことしたい |
 | M.Yano  | 東京    | [![github](img/github.png)](https://github.com/Mi-yano)   | 今どきのドラえもんかと<br>なんでもできるようになりたい！ |
-|yotuno | 埼玉    | [![github](img/github.png)](https://github.com/yokaku)   | 元気の素|
+|森の猫| 埼玉| [ ！[github] （img / github.png）] （https://github.com/catwood789）    | 元気の素|
