@@ -67,7 +67,7 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
 
-<a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
+<a href="https://github.com/algyan"><img src="./img/GitHub-Mark-740px-from_svg.png" width="30%" alt="github"></a>
 
 ### ご支援（カンパ・ご協賛）のお願い
 
