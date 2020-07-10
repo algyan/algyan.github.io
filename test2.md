@@ -39,6 +39,12 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 ## SNS
 
+### GitHub
+
+IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
+
+<a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
+
 ### Facebook
 
 グループに参加してわくわくする情報を交換しよう！
@@ -50,12 +56,6 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23ALGYAN&src=typed_query)
 
 <a class="twitter-timeline" data-lang="ja" data-height="500" data-theme="light" href="https://twitter.com/IOT_ALGYAN?ref_src=twsrc%5Etfw">Tweets by IOT_ALGYAN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### GitHub
-
-IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
-
-<a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
 
 ### ご支援（カンパ・ご協賛）のお願い
 
