@@ -39,17 +39,17 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 ## SNS
 
+### Facebook
+
+グループに参加してわくわくする情報を交換しよう！
+
+<a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a>
+
 ### GitHub
 
 IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
 
 <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
-
-### Facebook
-
-グループに参加してわくわくする情報を交換しよう！
-
-<a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a>　
 
 ### Twitter
 
