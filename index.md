@@ -224,3 +224,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | Ryosukelly  | 埼玉    | [![facebook](img/facebook.png)](https://www.facebook.com/ryosukelly.slater) [![github](img/github.png)](https://github.com/ryosuke-imai)   | AIとIOT、<br>でなにか楽しいことしたい |
 | M.Yano  | 東京    | [![github](img/github.png)](https://github.com/Mi-yano)   | 今どきのドラえもんかと<br>なんでもできるようになりたい！ |
 |森の猫| 埼玉| [![github](img/github.png)](https://github.com/catwood789)    | 元気の素|
+|takeshi_miura| 東京| [![github](img/github.png)](https://github.com/1222-takeshi)[![twitter](img/twitter.png)](https://twitter.com/1222_takeshi)    | 趣味とモチベーション|
