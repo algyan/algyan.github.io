@@ -225,4 +225,4 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | M.Yano  | 東京    | [![github](img/github.png)](https://github.com/Mi-yano)   | 今どきのドラえもんかと<br>なんでもできるようになりたい！ |
 |森の猫| 埼玉| [![github](img/github.png)](https://github.com/catwood789)    | 元気の素|
 |takeshi_miura| 東京| [![github](img/github.png)](https://github.com/1222-takeshi)[![twitter](img/twitter.png)](https://twitter.com/1222_takeshi)    | 趣味とモチベーション|
-| OsamuSuzuki  | 埼玉 | [![facebook](img/facebook.png)](facebook.com/OSaaMu14)   | youtube見てます。勉強中！ |
+| OsamuSuzuki  | 埼玉 | [![facebook](img/facebook.png)](https://facebook.com/OSaaMu14)   | youtube見てます。勉強中！ |
