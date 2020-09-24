@@ -73,7 +73,7 @@ IoTなアプリの開発やハンズオンのコンテンツ作りに参加し�
 
 オンライン開催のイベント動画を配信中！チャンネル登録お願いします！！
 
-<a href="https://www.youtube.com/channel/UCOQqmAc0zkZq1t_H3K3coJA"><img src="./img/yt_logo_rbg_light.png" width="30%" alt="youtube"></a>
+<a href="https://www.youtube.com/channel/UCOQqmAc0zkZq1t_H3K3coJA"><img src="./img/yt_logo_rgb_light.png" width="30%" alt="youtube"></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MsU1QsmhNiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
