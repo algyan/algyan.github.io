@@ -69,6 +69,14 @@ IoTなアプリの開発やハンズオンのコンテンツ作りに参加し�
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/IOT_ALGYAN?ref_src=twsrc%5Etfw">Tweets by IOT_ALGYAN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### YouTube
+
+オンライン開催のイベント動画を配信中！チャンネル登録お願いします！！
+
+<a href="https://www.youtube.com/channel/UCOQqmAc0zkZq1t_H3K3coJA"><img src="./img/yt_logo_rgb_light.png" width="30%" alt="youtube"></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MsU1QsmhNiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### ご支援（カンパ・ご協賛）のお願い
 
 [こちらのページ](Donation)をご覧ください
