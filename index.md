@@ -51,23 +51,31 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 ## SNS
 
-### GitHub
-
-IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
-
-<a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
-
 ### Facebook
 
 グループに参加してわくわくする情報を交換しよう！
 
-<a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a>　
+<a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a>
+
+### GitHub
+
+IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
+
+<a href="https://github.com/algyan"><img src="./img/GitHub-Mark-740px-from_svg.png" width="30%" alt="github"></a>
 
 ### Twitter
 
 フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23ALGYAN&src=typed_query)
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/IOT_ALGYAN?ref_src=twsrc%5Etfw">Tweets by IOT_ALGYAN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### YouTube
+
+オンライン開催のイベント動画を配信中！チャンネル登録お願いします！！
+
+<a href="https://www.youtube.com/channel/UCOQqmAc0zkZq1t_H3K3coJA"><img src="./img/yt_logo_rgb_light.png" width="30%" alt="youtube"></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MsU1QsmhNiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### ご支援（カンパ・ご協賛）のお願い
 
@@ -109,7 +117,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ヒロキ | 熊本    | [![facebook](img/facebook.png)](https://www.facebook.com/atsuhiko.kogure) [![twitter](img/twitter.png)](https://twitter.com/from_akihabara) [![github](img/github.png)](https://github.com/atkogure)   | モノづくり|
 |matsujirushi|愛知|[![facebook](img/facebook.png)](https://www.facebook.com/takashi.matsuoka.37) [![twitter](img/twitter.png)](https://twitter.com/matsujirushi12) [![github](img/github.png)](https://github.com/matsujirushi)|ものづくり|
 | Y.Fujita  | 神戸    | [![twitter](img/twitter.png)](https://twitter.com/YSFT_KOBE) [![github](img/github.png)](https://github.com/YSFT-KOBE)   | 恋人です！ |
-| あらやん  | 栃木    | [![github](img/github.png)](https://github.com/ArayanAce)   | なんもないんだな。 |
+| arayan  | Japan| [![github](img/github.png)](https://github.com/arayan-ace)   | ubiquitous |
 | yoshiwo  | 火星    | [![twitter](img/twitter.png)](https://twitter.com/ashioto521) [![github](img/github.png)](https://github.com/yoshiwo115)   | 命 |
 | 西川幸延　  | 金沢    | [![facebook](img/facebook.png)](https://facebook.com/doraetrobo/) [![twitter](img/twitter.png)](https://twitter.com/dora_etrobo) [![github](img/github.png)](https://github.com/etrobo)   | IoTラブ、<br>楽しい！ |
 | 前野秀史　  | 東京    | [![facebook](img/facebook.png)](https://facebook.com/hideshi.maeno/) [![twitter](img/twitter.png)](https://twitter.com/skycatneo) [![github](img/github.png)](https://github.com/maenoh)   | アイデアを<br>形に！ |
@@ -222,3 +230,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | yohata    | JP  | ひみつ！　　| べんりなもの！！ |
 | kabekin  | 広島    |  [![github](img/github.png)](https://github.com/kabekin)   | 楽しいマイコン |
 | Ryosukelly  | 埼玉    | [![facebook](img/facebook.png)](https://www.facebook.com/ryosukelly.slater) [![github](img/github.png)](https://github.com/ryosuke-imai)   | AIとIOT、<br>でなにか楽しいことしたい |
+| M.Yano  | 東京    | [![github](img/github.png)](https://github.com/Mi-yano)   | 今どきのドラえもんかと<br>なんでもできるようになりたい！ |
+|森の猫| 埼玉| [![github](img/github.png)](https://github.com/catwood789)    | 元気の素|
+|takeshi_miura| 東京| [![github](img/github.png)](https://github.com/1222-takeshi)[![twitter](img/twitter.png)](https://twitter.com/1222_takeshi)    | 趣味とモチベーション|
+| OsamuSuzuki  | 埼玉 | [![facebook](img/facebook.png)](https://facebook.com/OSaaMu14)   | youtube見てます。勉強中！ |
