@@ -1,7 +1,10 @@
 ---
 layout: default
-title: EnOcean IoTシステム開発コンテスト 優秀作品の紹介
+title: EnOcean IoTシステム開発コンテスト
+description: 優秀作品の紹介
 ---
+
+### EnOcean IoTシステム開発コンテスト 優秀作品の紹介
 
 まだまだ工事中です。
 
