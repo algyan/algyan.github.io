@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IoT ALGYAN 公式Webサイト
-descriptio: EnOcean IoTシステム開発コンテスト 優秀作品の紹介
+description: EnOcean IoTシステム開発コンテスト 優秀作品の紹介
 ---
 
 <style>
