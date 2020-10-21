@@ -57,7 +57,7 @@
       let month = d.getMonth() + 1;
       // 来月の年月を設定
       let nextYear = month === 12 ? year + 1 : year;
-      let nextMonth = month === 12 ? 1 : month + 2;
+      let nextMonth = month === 12 ? 1 : month + 1;
       // クエリ文字列に変換
       let ym1 = year.toString() + month.toString().padStart(2, '0');
       let ym2 = nextYear.toString() + nextMonth.toString().padStart(2, '0');
