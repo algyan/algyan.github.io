@@ -61,7 +61,7 @@
       let nextMonth = month === 12 ? 1 : month;
       // クエリ文字列に変換
       let ym1 = year.toString() + month.toString().padStart(2, '0');
-      let ym2 = year.toString() + month.toString().padStart(2, '0');
+      let ym2 = nextYear.toString() + nextMonth.toString().padStart(2, '0');
       // connpasイベント取得URL
       let url = "https://connpass.com/api/v1/event/?series_id=1561&order=2&ym=" + ym1 + "&ym=" + ym2 + "&callback=event_list_init";
       let scr = document.createElement('script');
