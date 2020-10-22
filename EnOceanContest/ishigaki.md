@@ -7,7 +7,7 @@ description: 優秀作品の紹介
 ## 優秀賞
 
 **EnFy**  
-**ishigaki様**
+　**ishigaki様**
 
 <!-- この行以降を自由に編集してください！ -->
 
