@@ -41,7 +41,7 @@ Pull Requestは何度でも承ります．いったんMergeしてみて本番環
 
 よく使われそうな記法とその見栄えをお示しします．  
 このページの元ファイルと見比べていただくと把握できるかと思います．  
-https://raw.githubusercontent.com/algyan/algyan.github.io/master/EnOceanContest/howtoedit.md
+[https://raw.githubusercontent.com/algyan/algyan.github.io/master/EnOceanContest/howtoedit.md](https://raw.githubusercontent.com/algyan/algyan.github.io/master/EnOceanContest/howtoedit.md)
 
 ### h3レベルの見た目はこんな感じです
 
