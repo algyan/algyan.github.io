@@ -14,7 +14,7 @@ GitHubやMarkdownの編集に不慣れという方は，テキストやWordな�
 
 ### 大まかな流れ
 
-1. 公式WebサイトのGitHub Repositoryをforkする<br>https://github.com/algyan/algyan.github.io
+1. 公式WebサイトのGitHub Repositoryをforkする<br>[https://github.com/algyan/algyan.github.io](https://github.com/algyan/algyan.github.io)
 1. フォーク先のご自身のリポジトリにある `algyan.github.io/EnOceanContest/<ご自身のファイル名>.md` を編集する
 1. Pull Requestを作成する
 1. Mergeされたら，思ったとおりに表示されているか確認する
@@ -67,6 +67,8 @@ htmlタグのベタ書きもいけます．
 ページ全体がhtmlでも大丈夫です．
 
 リンクは[こんな感じ](https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/howto)です．
+URLベタ書きだけだと下記みたいな残念な感じになります．  
+https://algyan.connpass.com/
 
 画像ファイルを貼り付けたい場合は，`./EnOceanContest/` 以下のみに`git add`してもらえればです．別サイトのURLでもリンクを貼れます．
 イケメンの写真を貼り付けておきます．
