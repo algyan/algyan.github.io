@@ -15,7 +15,7 @@ description: 優秀作品の紹介
 オンラインでお仕事をすること増えてノイズキャンセリングなどの
 便利なグッズを使い始めたら、家電の音が聞こえなくなってしまいました！
 そんな問題をEnOceanが解決！
-洗濯機の状態をブラウザでモニタリングできるものを作りまhした。
+洗濯機の状態をブラウザでモニタリングできるものを作りました。
 洗濯の終了、蓋の開閉、電灯のつけっぱなし等をお知らせします。
 
 #### 動画
@@ -23,12 +23,12 @@ description: 優秀作品の紹介
 EnOcean IoTシステム開発コンテスト！応募作品
 「カンタン！EnOceanで洗濯機IoT」説明動画
 
-https://youtu.be/OdsxF36075g
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdsxF36075g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 謝辞
 
 この度はEnOceanのマルチセンサとトングルの無償提供ありがとうございました。
-受傷もできて嬉しいです！
+受賞もできて嬉しいです！
 
 
 <!-- 以下の行は残してください！ -->
