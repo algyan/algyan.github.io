@@ -8,9 +8,11 @@ description: 優秀作品の紹介
 
 ### 必見！コンテストビデオ（3時間14分）
 
-[熱き挑戦者たち！EnOcean IoTシステム開発コンテスト・本番審査会 Youtube](https://www.youtube.com/watch?v=A-DtBxktZXk&t=5155s)
+[熱き挑戦者たち！EnOcean IoTシステム開発コンテスト・本番審査会 Youtube](https://youtu.be/A-DtBxktZXk?t=244)
 
-https://www.youtube.com/watch?v=A-DtBxktZXk&t=5155s
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-DtBxktZXk?start=244" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <br/>
 
@@ -30,19 +32,19 @@ https://www.youtube.com/watch?v=A-DtBxktZXk&t=5155s
 
 ### EnOcean IoT システム開発コンテストってなにもの？？
 
-エネルギーハーベスティング無線通信技術のパイオニア、EnOcean（エンオーシャン）。
-https://www.enocean.com/jp/
+エネルギーハーベスティング無線通信技術のパイオニア、[EnOcean（エンオーシャン）](https://www.enocean.com/jp/)。
+
 電池不要の無線通信技術の開発で有名ですね。
-「IoTの投資と運用コストを最小化させる」独自の特許技術が、欧州を中心に世界中に広まっています。
+「IoTの投資と運用コストを最小化させる」独自の特許技術が、欧州を中心に世界中に広まっています。  
 EnOceanは、企業名であると同時に、通信規格の名称でもあります。
-EnOcean規格は、バッテリーレスもしくは超低消費電力なだけでなく、強固なセキュリティーでも有名です。
-まさに、IoTにはぴったりと言えるでしょう。
-そのテクノロジーを世界中のパートナー企業と共有し世界のIoTを盛り上げていこう、という任意団体が今回ALGYANとコラボする「EnOcean Alliance（エンオーシャン アライアンス）」です。
-https://www.enocean-alliance.org/ja/
+EnOcean規格は、バッテリーレスもしくは超低消費電力なだけでなく、強固なセキュリティーでも有名です。  
+まさに、IoTにはぴったりと言えるでしょう。  
+そのテクノロジーを世界中のパートナー企業と共有し世界のIoTを盛り上げていこう、という任意団体が今回ALGYANとコラボする「[EnOcean Alliance（エンオーシャン アライアンス）](https://www.enocean-alliance.org/ja/)」です。
+
 
 EnOcean Allianceは世界で約400社、日本で40社以上が参加し、積極的に活動しています。
-日本は世界で３番目に無線規格が許可され、EnOcean Allianceとしても日本市場に大変期待しているそうです！
-いっぽうで、日本市場はまだまだ未開拓で、エネルギーハーベスティング無線通信技術において多くの伸び代、つまりビジネスチャンスがあります！！！
+日本は世界で３番目に無線規格が許可され、EnOcean Allianceとしても日本市場に大変期待しているそうです！  
+いっぽうで、日本市場はまだまだ未開拓で、エネルギーハーベスティング無線通信技術において多くの伸び代、つまりビジネスチャンスがあります！！！  
 エンジニアとして見逃せない分野ですね！
 
 これを機に、あなたもEnOceanの採用事例と背景技術に触れてみませんか！
@@ -51,7 +53,7 @@ EnOcean Allianceは世界で約400社、日本で40社以上が参加し、積�
 
 これを機にみんなで集合知を結集しながら、一緒にテクノロジーの「今」と「未来」に熱い思いを馳せましょう！
 
-Don’t sleep through life!
+Don’t sleep through life!  
 ぼーっと生きてんじゃねえよ！
 
 ![イケメン！](kogure.jpg)
@@ -114,6 +116,7 @@ Don’t sleep through life!
 	| Raspberry Pi | Windows PC | ESP32/M5Stack |
 	|:-:|:-:|:-:|
 	| 12 | 3 | 2 |
+
 	<br/>
 
 	* 情報出力手段（複数出力有り）<br/>
@@ -121,6 +124,7 @@ Don’t sleep through life!
 	| Local | Web | LINE | Mail | Offline | Other(Smart Speaker, KNX-LED, M5Stack) | 
 	|:-:|:-:|:-:|:-:|:-:|:-:|
 	| 5 | 10 | 4 | 2 | 1 | 3 |
+
 	<br/>
 
 	* 汎用クラウド活用<br/>
@@ -128,6 +132,7 @@ Don’t sleep through life!
 	| AWS | Azure | その他 |
 	|:-:|:-:|:-:|
 	| 4 | 2 | 4 |
+
 	<br/>
 
 - 利用技術とサービスについて<br/>
