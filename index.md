@@ -49,6 +49,10 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 ![connpass](/img/connpass.png)
 ](https://algyan.connpass.com/)
 
+### 過去の開催イベント
+
+- [EnOcean IoTシステム開発コンテスト 優秀作品の紹介](EnOceanContest/) ＠2020/10/17(土)
+
 ## SNS
 
 ### Facebook
