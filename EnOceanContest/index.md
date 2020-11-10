@@ -18,12 +18,13 @@ description: 優秀作品の紹介
 ### 優秀賞
 
 - [EnFy](ishigaki)<br>ishigaki様
-<!--
-- [自転車で計測する路面状況、「Yes, my road」](cozy)<br>cozy様
--->
 - 自転車で計測する路面状況、「Yes, my road」<br>cozy様
 - [カンタン！EnOceanで洗濯機IoT](yamada3)<br>Yamada3様
 <br/>
+
+<!--
+- [自転車で計測する路面状況、「Yes, my road」](cozy)<br>cozy様
+-->
 
 ### 必見！コンテストビデオ（3時間14分）
 
