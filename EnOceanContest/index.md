@@ -28,13 +28,10 @@ description: 優秀作品の紹介
 
 ### 必見！コンテストビデオ（3時間14分）
 
-[熱き挑戦者たち！EnOcean IoTシステム開発コンテスト・本番審査会 Youtube](https://youtu.be/A-DtBxktZXk?t=244)
+- [熱き挑戦者たち！EnOcean IoTシステム開発コンテスト・本番審査会 Youtube](https://youtu.be/A-DtBxktZXk?t=244)
+  - [ビデオの発表順とインデックス・データ](videoindex)
 
-<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-DtBxktZXk?start=244" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
-
-[ビデオ詳細インデックス](videoindex)
 
 <br/>
 
