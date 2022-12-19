@@ -23,7 +23,7 @@ map：[https://goo.gl/maps/17nfcEGFEE4Y2R9v8](https://goo.gl/maps/17nfcEGFEE4Y2R
 
 ### 【駅からの道案内】
 
-<font color=red>注※</font>：代官山は地形的に複雑で、ちょっとした迷宮＝ラビリンスです。<br>
+　<font color=red>注※</font>：代官山は地形的に複雑で、ちょっとした迷宮＝ラビリンスです。<br>
 迷うと心細い小旅行を展開する羽目になります。<br>
 訳知り顔のあなたも決して油断せず、<br>
 素直に次の写真を見ながらお間違えのないよう、<br>
@@ -36,13 +36,13 @@ map：[https://goo.gl/maps/17nfcEGFEE4Y2R9v8](https://goo.gl/maps/17nfcEGFEE4Y2R
 ![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_1.jpeg)
 
 #### ③坂を下り切ったら、左折。
-![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_2.png>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_2.png)
 
 #### ④まっすぐ進むとすぐに、ガラス張りの瀟洒な建物が見えてきます。
-![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_3.png>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_3.png)
 
 #### ⑤建物の、左手前の階段を上がります。
-![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_4.png>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_4.png)
 
 #### ⑥重い扉を開けて入ってください。
 ![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_5.jpeg)
