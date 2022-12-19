@@ -8,7 +8,7 @@
 
 
 住所：**東京都渋谷区代官山町20-5 リードシー代官山 2F**<br>
-map：https://goo.gl/maps/17nfcEGFEE4Y2R9v8<br>
+map：[https://goo.gl/maps/17nfcEGFEE4Y2R9v8](https://goo.gl/maps/17nfcEGFEE4Y2R9v8)<br>
 
 ### 【設備】
 ・ゲストWi-Fi<br>
