@@ -57,5 +57,5 @@ map：[https://goo.gl/maps/17nfcEGFEE4Y2R9v8](https://goo.gl/maps/17nfcEGFEE4Y2R
 
 
 公式ページ（情報はほとんどありません）<br>
-https://www.microsoft.com/ja-jp/events/azurebase/places/daikanyama/
+[https://www.microsoft.com/ja-jp/events/azurebase/places/daikanyama/](https://www.microsoft.com/ja-jp/events/azurebase/places/daikanyama/)
 
