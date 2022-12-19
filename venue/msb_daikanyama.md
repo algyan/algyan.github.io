@@ -3,7 +3,7 @@
 
 
 ### 【アクセス概要】
-**東急東横線　代官山駅　中央口**から「すぐ（<font color-red>注※</font>）」です。<br>
+**東急東横線　代官山駅　中央口**から「すぐ（<font color=red>注※</font>）」です。<br>
 （代官山駅は急行電車は停車しません。各駅停車しか止まりませんのでご注意下さい。）<br>
 
 
@@ -30,25 +30,25 @@ map：https://goo.gl/maps/17nfcEGFEE4Y2R9v8<br>
 時間に余裕を持ってお気をつけてお越しください。<br>
 
 #### ①東急東横線　代官山駅　中央口を出て右の路地へ
-<img src=https://techmode.co.jp/images/MicrosoftBaseDaikanyama_0.jpeg>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_0.jpeg)
 
 #### ②下り坂をどんどん降りていきます。
-<img src=https://techmode.co.jp/images/MicrosoftBaseDaikanyama_1.jpeg>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_1.jpeg)
 
 #### ③坂を下り切ったら、左折。
-<img src=https://techmode.co.jp/images/MicrosoftBaseDaikanyama_2.png>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_2.png>
 
 #### ④まっすぐ進むとすぐに、ガラス張りの瀟洒な建物が見えてきます。
-<img src=https://techmode.co.jp/images/MicrosoftBaseDaikanyama_3.png>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_3.png>
 
 #### ⑤建物の、左手前の階段を上がります。
-<img src=https://techmode.co.jp/images/MicrosoftBaseDaikanyama_4.png>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_4.png>
 
 #### ⑥重い扉を開けて入ってください。
-<img src=https://techmode.co.jp/images/MicrosoftBaseDaikanyama_5.jpeg>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_5.jpeg)
 
 #### ⑦素敵なイベントスペースでしょう。ここがゴールです。
-<img src=https://techmode.co.jp/images/MicrosoftBaseDaikanyama_9.jpeg>
+![画像](https://techmode.co.jp/images/MicrosoftBaseDaikanyama_9.jpeg)
 
 
 
