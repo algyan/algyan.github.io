@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IoT ALGYAN 公式Webサイト
+title: ALGYAN 公式Webサイト
 description: IoTあるじゃん
 ---
 
@@ -10,12 +10,12 @@ description: IoTあるじゃん
   }
 </style>
 
-## IoT ALGYAN 公式Webサイト
+## ALGYAN 公式Webサイト
 
-IoT ALGYAN は、<font color="red" size="5">IoTを学べる最強コミュニティ</font>です。
+ALGYAN は、<font color="red" size="5">IoTを学べる最強コミュニティ</font>です。
 
 ALGYANとは「All Gadget Your Alliance and Network」を略した造語です。  
-IoTを学びリードしようという意識の高い技術者が集合したコミュニティです。  
+IoTやIT技術を学びリードしようという意識の高い技術者が集合したコミュニティです。  
 「つながる広がる・あなたのアイディアを地球にプロット！」を合言葉に、日本から世界へ明るく楽しくIoT(The Internet of Things)を広めます。  
 
 - 全国ハンズオンキャラバン(40カ所以上）
@@ -94,7 +94,7 @@ IoTなアプリの開発やハンズオンのコンテンツ作りに参加し�
 
 ## Members
 
-IoTあるじゃんの素敵な仲間たちを紹介しています！  
+あるじゃんの素敵な仲間たちを紹介しています！  
 ご自身の情報を掲載したい方は、[こちらの資料](https://gitpitch.com/takasehideki/ALGYAN-GitHub_PR-HandsOn/howto)に従ってGitHubでPull Requestをお送りください。
 
 <!--
